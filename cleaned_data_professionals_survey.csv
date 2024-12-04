@@ -1,0 +1,631 @@
+Response Time,Gender,Age,Country,Education Level,Industry,Title,Did you switch careers into Data?,Favorite Programming Language,Current Yearly Salary (in USD),Happiness (Salary),Happiness (Work/Life Balance),Happiness (Coworkers),Happiness (Management),Happiness (Upward Mobility),Happiness (Learning),Difficulty Breaking into Data,Important Job Factors,Elapsed Time
+2022-06-10 08:38:00,Male,26,United states,Unspecified,Healthcare,Data analyst,Yes,Python,106k-125k,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Remote work,0:00:44
+2022-06-10 08:40:00,Male,36,Canada,Unspecified,Finance,Data analyst,No,R,41k-65k,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Remote work,0:01:30
+2022-06-10 08:42:00,Male,23,Nigeria,Unspecified,Power and energy,Data engineer,No,Python,0-40k,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Work-life balance,0:02:18
+2022-06-10 08:43:00,Female,35,Canada,Unspecified,Finance,Consultant,Yes,R,150k-225k,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Remote work,0:02:10
+2022-06-10 08:44:00,Male,44,United states,Unspecified,Healthcare,Data analyst,Yes,R,41k-65k,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Compensation,0:01:51
+2022-06-10 08:44:00,Male,33,Democratic republic of the congo,Unspecified,Hospitality,Data analyst,Yes,Python,0-40k,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Work-life balance,0:02:34
+2022-06-10 08:44:00,Male,24,Other,Unspecified,Finance,Data scientist,Yes,Python,0-40k,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Compensation,0:01:15
+2022-06-10 08:45:00,Male,35,United states,Unspecified,Retail,Data engineer,Yes,Sql,125k-150k,10.0,5.0,5.0,5.0,5.0,9.0,Normal,Remote work,0:01:25
+2022-06-10 08:45:00,Male,35,United states,Unspecified,Healthcare,Data analyst,Yes,R,86k-105k,4.0,4.0,4.0,4.0,5.0,5.0,Normal,Compensation,0:02:10
+2022-06-10 08:45:00,Male,28,United states,Unspecified,Ecommerce,Data analyst,Yes,Python,41k-65k,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Compensation,0:01:27
+2022-06-10 08:45:00,Male,37,Canada,Unspecified,Logistics,Data analyst,Yes,Python,66k-85k,10.0,10.0,8.0,8.0,8.0,10.0,Normal,Remote work,0:01:29
+2022-06-10 08:45:00,Male,32,Serbia,Unspecified,Data and technology,Data analyst,Yes,Python,0-40k,3.0,8.0,10.0,10.0,7.0,8.0,Normal,Compensation,0:02:31
+2022-06-10 08:46:00,Male,34,Argentina,Unspecified,Data and technology,Data analyst,Yes,R,0-40k,1.0,10.0,9.0,9.0,5.0,10.0,Normal,Compensation,0:03:20
+2022-06-10 08:46:00,Male,30,United kingdom,Unspecified,Education,Data scientist,Yes,Python,0-40k,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Work-life balance,0:00:55
+2022-06-10 08:47:00,Male,31,United states,Unspecified,Manufacturing,Data analyst,No,R,41k-65k,4.0,5.0,5.0,5.0,4.0,5.0,Normal,Workplace culture,0:01:24
+2022-06-10 08:47:00,Male,29,United states,Unspecified,Finance,Data analyst,Yes,Python,41k-65k,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Workplace culture,0:00:47
+2022-06-10 08:48:00,Male,22,Niger,Unspecified,Data and technology,Data analyst,Yes,Python,0-40k,1.0,2.0,4.0,2.0,2.0,2.0,Normal,Compensation,0:01:06
+2022-06-10 08:48:00,Male,23,United states,Unspecified,Retail,Unemployed,Yes,Python,0-40k,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Compensation,0:01:04
+2022-06-10 08:49:00,Female,26,Canada,Unspecified,Data and technology,Unemployed,No,R,41k-65k,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Compensation,0:01:05
+2022-06-10 08:49:00,Male,28,Nigeria,Unspecified,Aerospace and defense,Data analyst,No,Python,0-40k,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Compensation,0:01:21
+2022-06-10 08:49:00,Male,29,Kenya,Unspecified,Finance,Data analyst,Yes,Python,41k-65k,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Remote work,0:01:23
+2022-06-10 08:50:00,Female,31,United states,Unspecified,Data and technology,Data analyst,Yes,Sql,106k-125k,10.0,5.0,10.0,6.0,10.0,10.0,Normal,Remote work,0:01:35
+2022-06-10 08:51:00,Male,28,Azerbaijan,Unspecified,Healthcare,Data analyst,Yes,Python,0-40k,5.0,6.0,8.0,8.0,7.0,1.0,Normal,Remote work,0:01:25
+2022-06-10 08:51:00,Male,32,Argentina,Unspecified,Finance,Data analyst,No,Python,0-40k,4.0,4.0,4.0,4.0,4.0,4.0,Normal,Compensation,0:01:47
+2022-06-10 08:51:00,Male,24,Sudan,Unspecified,Data and technology,Data analyst,No,Python,0-40k,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Compensation,0:02:14
+2022-06-10 08:51:00,Male,31,India,Unspecified,Data and technology,Data analyst,No,Python,0-40k,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Work-life balance,0:02:21
+2022-06-10 08:52:00,Male,23,United states,Unspecified,Finance,Data analyst,No,Sql,66k-85k,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Workplace culture,0:02:07
+2022-06-10 08:52:00,Female,33,United states,Unspecified,Power and energy,Data analyst,Yes,Python,106k-125k,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Remote work,0:01:20
+2022-06-10 08:52:00,Male,43,United states,Unspecified,Healthcare,Data analyst,No,Qlik sense script,86k-105k,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Compensation,0:01:34
+2022-06-10 08:52:00,Female,23,Nigeria,Unspecified,Power and energy,Unemployed,Yes,R,0-40k,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Remote work,0:01:34
+2022-06-10 08:52:00,Male,31,United states,Unspecified,Finance,Unemployed,Yes,Python,41k-65k,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Work-life balance,0:01:47
+2022-06-10 08:53:00,Male,31,United kingdom,Unspecified,Finance,Data analyst,Yes,Python,66k-85k,5.0,6.0,7.0,5.0,4.0,4.0,Normal,Development,0:01:38
+2022-06-10 08:53:00,Male,25,India,Unspecified,Other,Data analyst,Yes,Python,0-40k,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Work-life balance,0:03:30
+2022-06-10 08:54:00,Male,43,United states,Unspecified,Data and technology,Data engineer,No,Sql,125k-150k,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Compensation,0:01:37
+2022-06-10 08:54:00,Female,26,Canada,Unspecified,Finance,Data analyst,No,Python,41k-65k,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Compensation,0:02:08
+2022-06-10 08:54:00,Male,32,Japan,Unspecified,Automobile,Data analyst,No,Python,41k-65k,5.0,10.0,8.0,8.0,8.0,7.0,Normal,Remote work,0:03:54
+2022-06-10 08:54:00,Male,31,Greece,Unspecified,Data and technology,Business intelligence specialist,No,Python,0-40k,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Compensation,0:02:28
+2022-06-10 08:55:00,Male,29,United states,Unspecified,Healthcare,Data analyst,Yes,Sql,86k-105k,3.0,5.0,6.0,4.0,4.0,5.0,Normal,Compensation,0:01:33
+2022-06-10 08:55:00,Male,24,Peru,Unspecified,Automobile,Data analyst,Yes,Python,0-40k,3.0,1.0,3.0,2.0,3.0,1.0,Normal,Workplace culture,0:00:56
+2022-06-10 08:55:00,Male,34,United states,Unspecified,Manufacturing,Unemployed,Yes,Python,41k-65k,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Remote work,0:02:38
+2022-06-10 08:57:00,Male,42,Australia,Unspecified,Utilities,Data analyst,Yes,Dax,41k-65k,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Compensation,0:01:52
+2022-06-10 08:57:00,Female,40,United states,Unspecified,Unemployed,Unemployed,Yes,Javascript,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Remote work,0:02:03
+2022-06-10 08:57:00,Male,43,Spain,Unspecified,Ecommerce,Unemployed,No,Python,41k-65k,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Work-life balance,0:02:32
+2022-06-10 08:58:00,Male,23,Kenya,Unspecified,Manufacturing,Unemployed,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation,0:02:39
+2022-06-10 08:59:00,Male,23,Japan,Unspecified,Education,Unemployed,Yes,Python,0-40k,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Compensation,0:01:11
+2022-06-10 08:59:00,Male,28,United states,Unspecified,Manufacturing,Data analyst,Yes,Python,86k-105k,8.0,6.0,2.0,3.0,6.0,7.0,Normal,Collaboration,0:03:55
+2022-06-10 09:00:00,Male,32,United states,Unspecified,Finance,Data analyst,No,Sql,66k-85k,5.0,7.0,1.0,1.0,0.0,8.0,Normal,Compensation,0:01:25
+2022-06-10 09:02:00,Female,41,United states,Unspecified,Manufacturing,Data analyst,Yes,R,66k-85k,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Remote work,0:02:47
+2022-06-10 09:02:00,Male,33,United kingdom,High School,Finance,Data analyst,Yes,Python,41k-65k,5.0,6.0,6.0,6.0,6.0,6.0,Normal,Remote work,0:00:56
+2022-06-10 09:02:00,Male,38,United states,Unspecified,Data and technology,Business intelligence specialist,Yes,Python,150k-225k,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Work-life balance,0:01:57
+2022-06-10 09:02:00,Female,22,India,Unspecified,Data and technology,Data analyst,No,Sql,0-40k,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Compensation,0:02:32
+2022-06-10 09:03:00,Male,36,Barbados,Bachelors,Currently studying . previously worked in power generation,Unemployed,Yes,R,0-40k,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Remote work,0:01:59
+2022-06-10 09:03:00,Female,28,United states,Masters,Finance,Data engineer,No,Python,66k-85k,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Remote work,0:01:18
+2022-06-10 09:05:00,Male,30,South africa,Unspecified,Education,Unemployed,Yes,Sql,0-40k,,,,,,7.0,Very Easy,Work-life balance,0:08:11
+2022-06-10 09:05:00,Female,24,United states,Bachelors,Data and technology,Data analyst,Yes,Python,66k-85k,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,,0:01:44
+2022-06-10 09:06:00,Male,29,United states,Bachelors,Logistics,Business analyst,No,C/c++,41k-65k,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Compensation,0:01:58
+2022-06-10 09:07:00,Male,29,Colombia,Associates,Data and technology,Data analyst,No,Python,0-40k,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Compensation,0:02:15
+2022-06-10 09:08:00,Male,38,Germany,Masters,Automobile,Business analyst,Yes,Python,41k-65k,6.0,8.0,8.0,7.0,9.0,7.0,Normal,Work-life balance,0:02:04
+2022-06-10 09:08:00,Male,31,Bulgaria,Masters,Finance,Data analyst,Yes,,0-40k,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Work-life balance,0:01:46
+2022-06-10 09:09:00,Male,25,United states,Masters,Data and technology,Unemployed,No,Python,0-40k,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Compensation,0:01:33
+2022-06-10 09:09:00,Male,24,United states,Masters,Ecommerce,Data analyst,No,Python,66k-85k,4.0,6.0,4.0,5.0,4.0,4.0,Normal,Compensation,0:01:09
+2022-06-10 09:12:00,Male,28,Turkey,Bachelors,Data and technology,Business intelligence specialist,Yes,Python,41k-65k,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Compensation,0:04:03
+2022-06-10 09:13:00,Female,23,India,Bachelors,Data and technology,Unemployed,No,Python,0-40k,7.0,5.0,8.0,0.0,0.0,0.0,Normal,Workplace culture,0:01:03
+2022-06-10 09:13:00,Male,21,Spain,Masters,Data and technology,Data engineer,No,R,0-40k,2.0,3.0,2.0,5.0,5.0,7.0,Normal,Remote work,0:01:01
+2022-06-10 09:14:00,Male,29,France,Bachelors,Power and energy,Data analyst,No,Python,0-40k,4.0,4.0,4.0,4.0,5.0,6.0,Normal,Remote work,0:02:43
+2022-06-10 09:15:00,Male,25,United states,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Compensation,0:03:15
+2022-06-10 09:15:00,Male,27,Germany,Masters,Data and technology,Data analyst,No,Python,41k-65k,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Workplace culture,0:01:24
+2022-06-10 09:16:00,Male,23,India,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Compensation,0:01:28
+2022-06-10 09:16:00,Male,32,United states,Masters,Food and beverage,Data analyst,No,R,86k-105k,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Compensation,0:02:36
+2022-06-10 09:17:00,Male,22,India,Bachelors,Healthcare,Unemployed,Yes,Python,106k-125k,5.0,5.0,7.0,5.0,7.0,7.0,Normal,Remote work,0:02:41
+2022-06-10 09:17:00,Male,25,Thailand,Bachelors,Data and technology,Data analyst,No,Python,0-40k,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Compensation,0:04:14
+2022-06-10 09:18:00,Female,36,Germany,Masters,Ecommerce,Data analyst,Yes,Python,0-40k,2.0,8.0,6.0,6.0,5.0,5.0,Normal,Remote work,0:01:15
+2022-06-10 09:19:00,Female,27,United states,Bachelors,Data and technology,Data analyst,Yes,Sql,106k-125k,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Work-life balance,0:02:21
+2022-06-10 09:19:00,Male,23,India,Bachelors,Data and technology,Business analyst,Yes,Python,0-40k,5.0,5.0,5.0,5.0,5.0,1.0,Normal,Repositioning,0:02:17
+2022-06-10 09:19:00,Male,26,Netherlands,Bachelors,Data and technology,Unemployed,Yes,Sql,0-40k,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Compensation,0:01:32
+2022-06-10 09:20:00,Female,33,United states,PhD,Healthcare,Data analyst,No,Python,86k-105k,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Work-life balance,0:01:19
+2022-06-10 09:20:00,Male,27,Turkey,Masters,Automobile,Data analyst,Yes,Python,106k-125k,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Compensation,0:01:33
+2022-06-10 09:21:00,Male,42,United states,Associates,Education,Data analyst,Yes,R,41k-65k,3.0,6.0,5.0,4.0,3.0,4.0,Normal,Compensation,0:01:38
+2022-06-10 09:21:00,Male,29,Spain,Masters,Data and technology,Data analyst,Yes,Python,0-40k,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Work-life balance,0:02:36
+2022-06-10 09:22:00,Female,27,United states,Masters,Data and technology,Data analyst,No,Python,125k-150k,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Compensation,0:01:08
+2022-06-10 09:22:00,Female,39,United states,Bachelors,Healthcare,Unemployed,No,Python,41k-65k,0.0,10.0,10.0,10.0,4.0,2.0,Normal,Remote work,0:01:41
+2022-06-10 09:23:00,Male,31,Denmark,Masters,Ecommerce,Data analyst,Yes,Python,41k-65k,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Workplace culture,0:01:36
+2022-06-10 09:23:00,Male,29,Brazil,Bachelors,Advertising,Data analyst,Yes,Python,66k-85k,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Work-life balance,0:03:09
+2022-06-10 09:25:00,Male,31,United states,Masters,Education,Data analyst,Yes,R,66k-85k,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Remote work,0:01:22
+2022-06-10 09:26:00,Male,30,Mexico,Masters,Finance,Data analyst,Yes,Python,0-40k,10.0,9.0,9.0,10.0,9.0,10.0,Normal,Workplace culture,0:01:30
+2022-06-10 09:26:00,Male,33,Mexico,Masters,Data and technology,Data engineer,Yes,Python,0-40k,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Compensation,0:03:05
+2022-06-10 09:27:00,Male,25,United states,Bachelors,Retail,Data analyst,No,Python,66k-85k,7.0,8.0,9.0,7.0,7.0,7.0,Normal,Compensation,0:00:58
+2022-06-10 09:27:00,Male,23,India,Bachelors,Data and technology,Unemployed,No,R,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Normal,Work-life balance,0:01:09
+2022-06-10 09:27:00,Male,33,United states,Bachelors,Advertising,Data analyst,Yes,Unspecified,41k-65k,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Compensation,0:01:51
+2022-06-10 09:27:00,Male,35,Chile,Bachelors,Logistics,Business analyst,Yes,Python,66k-85k,7.0,9.0,9.0,8.0,8.0,9.0,Normal,Work-life balance,0:02:29
+2022-06-10 09:27:00,Female,42,Greece,Masters,Staffing and recruting,Data analyst,No,Python,41k-65k,6.0,8.0,5.0,,6.0,9.0,Normal,Remote work,0:02:39
+2022-06-10 09:29:00,Male,25,United states,Bachelors,Data and technology,Data analyst,No,Python,66k-85k,3.0,4.0,2.0,1.0,0.0,4.0,Normal,Compensation,0:01:14
+2022-06-10 09:30:00,Male,23,United states,Bachelors,Automobile,Data analyst,No,Python,86k-105k,5.0,4.0,5.0,4.0,3.0,6.0,Normal,Repositioning,0:03:00
+2022-06-10 09:31:00,Female,51,United states,Bachelors,Healthcare,Learning management specialist,No,Javascript,41k-65k,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Compensation,0:02:02
+2022-06-10 09:32:00,Male,30,United kingdom,Bachelors,Ecommerce,Data analyst,No,Unspecified,0-40k,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Compensation,0:01:45
+2022-06-10 09:33:00,Male,23,India,Bachelors,Finance,Data analyst,Yes,Python,41k-65k,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Compensation,0:01:41
+2022-06-10 09:34:00,Male,24,Canada,Bachelors,Advertising,Data analyst,Yes,R,41k-65k,3.0,5.0,5.0,6.0,3.0,4.0,Normal,Compensation,0:01:06
+2022-06-10 09:35:00,Male,25,Australia,Masters,Data and technology,Unemployed,Yes,Python,41k-65k,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Workplace culture,0:01:06
+2022-06-10 09:35:00,Female,55,United states,Masters,Finance,Data analyst,Yes,Python,41k-65k,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Compensation,0:02:22
+2022-06-10 09:36:00,Female,30,United states,Masters,Healthcare,Data analyst,No,R,86k-105k,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Remote work,0:01:56
+2022-06-10 09:36:00,Male,25,Canada,Bachelors,Consulting,Data analyst,Yes,Python,41k-65k,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Compensation,0:01:10
+2022-06-10 09:37:00,Male,28,United states,Masters,Electronics,Data analyst,Yes,Python,66k-85k,6.0,9.0,7.0,6.0,7.0,7.0,Normal,Compensation,0:00:28
+2022-06-10 09:38:00,Male,34,United kingdom,Bachelors,Consulting,Data analyst,Yes,Python,41k-65k,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Compensation,0:02:22
+2022-06-10 09:38:00,Female,28,Costa rica,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,8.0,10.0,9.0,9.0,10.0,8.0,Normal,Compensation,0:03:18
+2022-06-10 09:39:00,Male,24,Vietnam,Bachelors,Manufacturing,Unemployed,No,Unspecified,0-40k,7.0,9.0,7.0,8.0,8.0,10.0,Normal,Compensation,0:01:55
+2022-06-10 09:39:00,Male,31,United states,Masters,Healthcare,Unemployed,Yes,Python,0-40k,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Compensation,0:01:15
+2022-06-10 09:40:00,Male,25,Canada,Bachelors,Logistics,Data analyst,Yes,Dax,41k-65k,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Compensation,0:02:07
+2022-06-10 09:40:00,Female,38,United states,Bachelors,Finance,Data analyst,Yes,Python,106k-125k,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Compensation,0:01:05
+2022-06-10 09:40:00,Male,30,Netherlands,Bachelors,Finance,Data analyst,No,Python,41k-65k,5.0,5.0,5.0,5.0,4.0,5.0,Normal,Workplace culture,0:01:32
+2022-06-10 09:40:00,Male,25,India,Bachelors,Data and technology,Data analyst,Yes,C/c++,0-40k,0.0,0.0,0.0,2.0,2.0,5.0,Normal,Work-life balance,0:01:32
+2022-06-10 09:41:00,Female,29,Nigeria,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,1.0,2.0,1.0,5.0,6.0,6.0,Normal,Compensation,0:01:08
+2022-06-10 09:44:00,Male,21,Portugal,Masters,Finance,Data scientist,Yes,Python,150k-225k,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Work-life balance,0:04:27
+2022-06-10 09:44:00,Female,39,United states,Bachelors,Logistics,Data analyst,Yes,Sql,66k-85k,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Remote work,0:02:00
+2022-06-10 09:45:00,Male,25,Turkey,Bachelors,Other,Unemployed,No,Python,0-40k,0.0,0.0,0.0,0.0,0.0,5.0,Normal,Compensation,0:01:19
+2022-06-10 09:45:00,Female,42,United states,Masters,Finance,Data analyst,Yes,,86k-105k,7.0,9.0,10.0,6.0,4.0,4.0,Normal,,0:02:36
+2022-06-10 09:46:00,Male,25,United states,Bachelors,Data and technology,Data analyst,No,R,41k-65k,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Compensation,0:00:48
+2022-06-10 09:47:00,Male,22,United states,Bachelors,Finance,Data scientist,No,Python,86k-105k,8.0,7.0,6.0,6.0,5.0,9.0,Normal,Compensation,0:01:20
+2022-06-10 09:47:00,Male,23,Colombia,High School,Customer service,Data analyst,No,Python,0-40k,1.0,4.0,4.0,3.0,,5.0,Easy,Compensation,0:02:04
+2022-06-10 09:48:00,Male,25,Egypt,High School,Ecommerce,Data engineer,Yes,Javascript,41k-65k,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Workplace culture,0:02:36
+2022-06-10 09:48:00,Male,45,Canada,Masters,Consulting,Data engineer,Yes,Python,66k-85k,5.0,7.0,7.0,6.0,6.0,7.0,Normal,Compensation,0:01:05
+2022-06-10 09:49:00,Male,24,United states,Bachelors,Healthcare,Data analyst,Yes,Dax,66k-85k,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Work-life balance,0:01:29
+2022-06-10 09:49:00,Male,25,United states,Unspecified,Government,Unemployed,No,R,0-40k,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Compensation,0:03:57
+2022-06-10 09:51:00,Male,26,United states,Bachelors,Advertising,Data analyst,Yes,Python,66k-85k,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Work-life balance,0:01:36
+2022-06-10 09:54:00,Male,23,Canada,Bachelors,Data and technology,Data analyst,No,R,41k-65k,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Compensation,0:01:41
+2022-06-10 09:55:00,Female,42,United kingdom,Masters,Culture and social work,Unemployed,Yes,Python,0-40k,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Remote work,0:01:37
+2022-06-10 09:56:00,Female,42,United states,Bachelors,Education,Educator,Yes,Unspecified,41k-65k,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Work-life balance,0:01:30
+2022-06-10 09:57:00,Male,25,India,Masters,Data and technology,Business analyst,No,Python,0-40k,0.0,6.0,5.0,5.0,3.0,1.0,Normal,Compensation,0:01:26
+2022-06-10 09:58:00,Male,38,United states,Masters,Data and technology,Data analyst,Yes,R,86k-105k,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Remote work,0:02:24
+2022-06-10 09:58:00,Male,24,Costa rica,Bachelors,Data and technology,Business intelligence specialist,No,Python,0-40k,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Compensation,0:02:51
+2022-06-10 10:01:00,Male,28,United states,Bachelors,Education,Data analyst,Yes,R,66k-85k,7.0,10.0,10.0,10.0,8.0,10.0,Normal,Work-life balance,0:01:37
+2022-06-10 10:03:00,Male,21,United states,Bachelors,Healthcare,Data analyst,No,Python,41k-65k,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Compensation,0:01:06
+2022-06-10 10:03:00,Male,39,United states,Masters,Healthcare,Data analyst,Yes,R,106k-125k,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Workplace culture,0:01:13
+2022-06-10 10:05:00,Male,23,Pakistan,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Work-life balance,0:03:29
+2022-06-10 10:05:00,Female,23,Australia,Bachelors,Government,Data analyst,No,R,0-40k,1.0,6.0,4.0,3.0,5.0,6.0,Normal,Work-life balance,0:01:17
+2022-06-10 10:05:00,Male,30,United states,Masters,Logistics,Data analyst,Yes,R,66k-85k,8.0,9.0,8.0,7.0,7.0,8.0,Normal,Work-life balance,0:02:03
+2022-06-10 10:06:00,Male,26,Ireland,Masters,Manufacturing,Data analyst,No,Python,41k-65k,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Compensation,0:01:16
+2022-06-10 10:06:00,Male,37,United states,Bachelors,Healthcare,Data analyst,Yes,R,41k-65k,3.0,6.0,4.0,6.0,4.0,6.0,Normal,Compensation,0:02:18
+2022-06-10 10:08:00,Female,31,United states,Bachelors,Healthcare,Data analyst,Yes,Python,66k-85k,3.0,5.0,4.0,5.0,4.0,4.0,Normal,Compensation,0:01:22
+2022-06-10 10:11:00,Female,25,South africa,Bachelors,Finance,Data analyst,Yes,C/c++,0-40k,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Work-life balance,0:02:03
+2022-06-10 10:12:00,Female,26,Poland,Bachelors,Healthcare,Data analyst,Yes,Python,0-40k,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Compensation,0:02:04
+2022-06-10 10:13:00,Male,30,United states,Bachelors,Healthcare,Data analyst,Yes,Sql,66k-85k,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Compensation,0:01:28
+2022-06-10 10:13:00,Female,39,United states,Bachelors,Data and technology,Data analyst,Yes,Python,66k-85k,9.0,10.0,10.0,10.0,7.0,9.0,Normal,Compensation,0:01:39
+2022-06-10 10:16:00,Female,28,India,Masters,Education,Research associate,No,Python,0-40k,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Work-life balance,0:00:53
+2022-06-10 10:18:00,Male,22,United states,Bachelors,Finance,Data analyst,Yes,Sql,66k-85k,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Work-life balance,0:01:46
+2022-06-10 10:19:00,Male,28,Mozambique,Bachelors,Ecommerce,Data analyst,Yes,Python,0-40k,3.0,2.0,4.0,2.0,2.0,2.0,Normal,Workplace culture,0:02:45
+2022-06-10 10:20:00,Male,33,United states,Masters,Data and technology,Data analyst,No,R,150k-225k,8.0,10.0,9.0,7.0,5.0,5.0,Normal,Remote work,0:01:44
+2022-06-10 10:21:00,Female,22,Egypt,Bachelors,Finance,Data analyst,Yes,Sql,0-40k,2.0,3.0,3.0,3.0,2.0,4.0,Normal,Work-life balance,0:05:11
+2022-06-10 10:23:00,Male,27,India,Bachelors,Data and technology,Unemployed,No,Python,0-40k,3.0,5.0,5.0,4.0,4.0,5.0,Normal,Compensation,0:01:48
+2022-06-10 10:25:00,Male,37,United states,Bachelors,Consulting,Data analyst,Yes,Dax,106k-125k,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Work-life balance,0:03:42
+2022-06-10 10:25:00,Male,24,United states,Masters,Retail,Business analyst,No,R,41k-65k,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Compensation,0:22:47
+2022-06-10 10:27:00,Male,25,United kingdom,Masters,Healthcare,Data analyst,No,R,41k-65k,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Compensation,0:01:20
+2022-06-10 10:27:00,Male,28,United states,Masters,Healthcare,Data engineer,No,R,86k-105k,8.0,10.0,8.0,8.0,9.0,10.0,Normal,Workplace culture,0:01:24
+2022-06-10 10:29:00,Male,32,United kingdom,Bachelors,Power and energy,Data analyst,Yes,Python,41k-65k,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Compensation,0:02:07
+2022-06-10 10:29:00,Male,29,United states,Bachelors,Government,Data analyst,Yes,Python,41k-65k,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Workplace culture,0:01:34
+2022-06-10 10:33:00,Female,26,Australia,Masters,Healthcare,Data analyst,No,R,41k-65k,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,Relocation,0:02:50
+2022-06-10 10:37:00,Male,37,Canada,Masters,Data and technology,Data engineer,Yes,Python,41k-65k,0.0,7.0,5.0,0.0,0.0,7.0,Normal,Remote work,0:03:01
+2022-06-10 10:39:00,Male,25,United states,Bachelors,Logistics,Data analyst,No,R,41k-65k,4.0,6.0,5.0,4.0,5.0,6.0,Normal,Compensation,0:01:44
+2022-06-10 10:40:00,Male,24,Israel,High School,Finance,Data analyst,No,Sql,0-40k,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Compensation,0:01:36
+2022-06-10 10:41:00,Male,52,United states,Bachelors,Finance,Data analyst,No,Sql,125k-150k,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Compensation,0:02:45
+2022-06-10 10:43:00,Male,27,Singapore,Bachelors,Finance,Data analyst,Yes,Python,41k-65k,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Workplace culture,0:04:22
+2022-06-10 10:47:00,Female,29,United states,Masters,Healthcare,Data analyst,No,Unspecified,106k-125k,6.0,6.0,3.0,3.0,3.0,3.0,Normal,Compensation,0:01:07
+2022-06-10 10:50:00,Male,42,Brazil,Associates,Data and technology,Unemployed,No,Python,0-40k,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Compensation,0:01:39
+2022-06-10 10:52:00,Male,28,United states,Masters,Ecommerce,Data analyst,Yes,R,41k-65k,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,All,0:01:24
+2022-06-10 10:52:00,Male,44,Costa rica,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,8.0,8.0,8.0,8.0,8.0,9.0,Normal,Work-life balance,0:02:39
+2022-06-10 10:53:00,Male,23,Spain,Bachelors,Data and technology,Data engineer,Yes,Python,0-40k,5.0,5.0,6.0,5.0,6.0,7.0,Normal,Remote work,0:01:30
+2022-06-10 10:53:00,Male,27,United states,Bachelors,Media and entertainment,Data analyst,No,R,41k-65k,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Compensation,0:01:14
+2022-06-10 10:54:00,Male,26,United states,Masters,Manufacturing,Data analyst,No,Python,66k-85k,3.0,3.0,3.0,2.0,2.0,1.0,Normal,Workplace culture,0:01:05
+2022-06-10 10:55:00,Male,27,United states,Masters,Healthcare,Data analyst,Yes,Vba,86k-105k,3.0,4.0,4.0,4.0,1.0,3.0,Normal,Compensation,0:01:14
+2022-06-10 10:56:00,Male,33,Canada,Bachelors,Retail,Data analyst,Yes,Python,66k-85k,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Compensation,0:01:45
+2022-06-10 10:56:00,Male,28,United states,Bachelors,Aerospace and defense,Data analyst,Yes,Python,66k-85k,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Compensation,0:01:44
+2022-06-10 11:00:00,Male,32,Kenya,Bachelors,Data and technology,Data analyst,Yes,R,0-40k,2.0,8.0,8.0,7.0,6.0,9.0,Normal,Compensation,0:01:29
+2022-06-10 11:04:00,Male,34,Canada,Associates,Food and beverage,Unemployed,Yes,Python,41k-65k,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Compensation,0:02:38
+2022-06-10 11:04:00,Male,28,United states,Bachelors,Data and technology,Data analyst,No,Python,150k-225k,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Work-life balance,0:01:04
+2022-06-10 11:09:00,Male,27,India,Bachelors,Ecommerce,Data scientist,Yes,Python,125k-150k,2.0,4.0,1.0,3.0,1.0,7.0,Normal,Compensation,0:01:51
+2022-06-10 11:09:00,Male,22,United states,Bachelors,Finance,Data engineer,Yes,Python,41k-65k,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Compensation,0:01:35
+2022-06-10 11:11:00,Male,29,United states,Masters,Healthcare,Data analyst,No,Python,66k-85k,3.0,3.0,4.0,1.0,2.0,2.0,Normal,Compensation,0:01:03
+2022-06-10 11:13:00,Female,31,United states,Masters,Healthcare,Data analyst,No,Python,66k-85k,8.0,10.0,10.0,8.0,5.0,7.0,Normal,Work-life balance,0:02:17
+2022-06-10 11:13:00,Male,28,United states,Bachelors,Data and technology,Data analyst,No,Python,66k-85k,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Remote work,0:01:39
+2022-06-10 11:14:00,Male,24,United states,Masters,Healthcare,Unemployed,No,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Normal,Work-life balance,0:00:53
+2022-06-10 11:15:00,Male,34,United states,Masters,Government,Data analyst,No,Stata,86k-105k,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Workplace culture,0:01:19
+2022-06-10 11:18:00,Male,23,United states,Bachelors,Data and technology,Data engineer,No,Python,86k-105k,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Compensation,0:01:16
+2022-06-10 11:18:00,Male,32,Belgium,Masters,Manufacturing,Unemployed,No,Dax,41k-65k,10.0,4.0,10.0,10.0,4.0,10.0,Normal,Remote work,0:02:08
+2022-06-10 11:20:00,Male,29,Argentina,High School,Healthcare,Data analyst,Yes,R,0-40k,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Remote work,0:01:31
+2022-06-10 11:22:00,Male,34,Nigeria,Bachelors,Education,Data analyst,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation,0:01:39
+2022-06-10 11:22:00,Male,24,United kingdom,Bachelors,Finance,Data analyst,No,Python,66k-85k,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Remote work,0:00:55
+2022-06-10 11:23:00,Male,30,United states,Bachelors,Data and technology,Data analyst,No,Python,66k-85k,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Compensation,0:02:19
+2022-06-10 11:25:00,Male,24,United states,Masters,Media and entertainment,Data analyst,No,Python,86k-105k,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Compensation,0:01:59
+2022-06-10 11:25:00,Male,27,United states,Bachelors,Finance,Data analyst,Yes,Python,41k-65k,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Compensation,0:01:52
+2022-06-10 11:29:00,Male,21,India,Bachelors,Finance,Data analyst,No,Python,0-40k,1.0,2.0,4.0,4.0,4.0,5.0,Normal,Compensation,0:03:30
+2022-06-10 11:39:00,Male,31,United arab emirates,Masters,Logistics,Data analyst,No,Python,0-40k,3.0,5.0,9.0,9.0,,8.0,Very Difficult,Workplace culture,0:03:54
+2022-06-10 11:40:00,Male,41,Egypt,Bachelors,Ecommerce,Data analyst,Yes,R,0-40k,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Compensation,0:02:38
+2022-06-10 11:45:00,Male,25,India,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Compensation,0:02:07
+2022-06-10 11:46:00,Male,24,Nigeria,Bachelors,Finance,Data analyst,No,,0-40k,4.0,7.0,8.0,8.0,8.0,9.0,Normal,Compensation,0:03:59
+2022-06-10 11:47:00,Male,30,Somalia,Masters,Finance,Data analyst,No,Python,0-40k,6.0,5.0,6.0,5.0,6.0,6.0,Normal,Compensation,0:02:01
+2022-06-10 11:48:00,Male,33,United states,Bachelors,Finance,Data analyst,No,Unspecified,150k-225k,7.0,7.0,7.0,,5.0,7.0,Normal,Work-life balance,0:03:38
+2022-06-10 11:49:00,Male,23,United states,Bachelors,Power and energy,Data analyst,No,Altery,66k-85k,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Compensation,0:02:40
+2022-06-10 11:49:00,Female,33,United kingdom,Masters,Data and technology,Data analyst,Yes,Python,66k-85k,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote work,0:01:34
+2022-06-10 11:50:00,Male,25,United states,Bachelors,Finance,Data analyst,No,Python,106k-125k,4.0,4.0,4.0,4.0,4.0,4.0,Normal,Compensation,0:00:48
+2022-06-10 11:51:00,Female,27,Kosovo,Masters,Market research,Data analyst,No,Python,0-40k,5.0,5.0,5.0,5.0,5.0,5.0,Normal,Remote work,0:00:57
+2022-06-10 11:53:00,Male,30,United kingdom,Bachelors,Finance,Data analyst,Yes,C/c++,0-40k,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Work-life balance,0:01:45
+2022-06-10 11:54:00,Male,29,Nigeria,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,0.0,3.0,,,,6.0,Normal,Remote work,0:02:41
+2022-06-10 11:55:00,Male,25,India,Masters,Healthcare,Data analyst,Yes,Python,0-40k,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Compensation,0:03:43
+2022-06-10 11:55:00,Male,40,United states,High School,Ecommerce,Data analyst,No,,86k-105k,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Remote work,0:01:28
+2022-06-10 12:01:00,Female,29,Canada,Bachelors,Government,Data analyst,No,Unspecified,41k-65k,6.0,10.0,8.0,8.0,4.0,4.0,Normal,Compensation,0:02:59
+2022-06-10 12:01:00,Male,29,India,Masters,Other,Data analyst,No,Python,41k-65k,0.0,3.0,3.0,3.0,3.0,,Difficult,Remote work,0:04:44
+2022-06-10 12:03:00,Male,28,Nigeria,Masters,Education,Data analyst,Yes,Python,0-40k,1.0,2.0,2.0,3.0,3.0,4.0,Normal,Compensation,0:01:40
+2022-06-10 12:04:00,Male,34,United kingdom,Bachelors,Hospitality,Software engineer,No,C#,86k-105k,5.0,2.0,0.0,2.0,0.0,0.0,Normal,Work-life balance,0:02:21
+2022-06-10 12:10:00,Male,24,Belgium,Masters,Data and technology,Unemployed,No,Python,0-40k,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Learning and growth,0:02:58
+2022-06-10 12:11:00,Male,26,Iraq,Bachelors,Ecommerce,Data analyst,Yes,Python,0-40k,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Compensation,0:02:23
+2022-06-10 12:16:00,Male,28,United states,Bachelors,Data and technology,Data analyst,No,Python,125k-150k,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Work-life balance,0:01:21
+2022-06-10 12:16:00,Male,25,Germany,Masters,Education,Unemployed,No,R,0-40k,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Work-life balance,0:00:59
+2022-06-10 12:23:00,Male,33,Colombia,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Compensation,0:02:52
+2022-06-10 12:23:00,Male,30,Ireland,Masters,Finance,Data analyst,Yes,Python,66k-85k,4.0,4.0,6.0,3.0,4.0,0.0,Normal,Remote work,0:01:01
+2022-06-10 12:25:00,Male,35,India,Bachelors,Finance,Data analyst,Yes,Python,0-40k,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Compensation,0:02:51
+2022-06-10 12:28:00,Male,25,Romania,Bachelors,Automobile,Data analyst,No,,0-40k,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Compensation,0:01:57
+2022-06-10 12:29:00,Male,23,Spain,Bachelors,Government,Data analyst,No,Python,0-40k,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Compensation,0:01:21
+2022-06-10 12:32:00,Male,24,Mexico,Bachelors,Healthcare,Data engineer,No,Python,0-40k,6.0,6.0,6.0,5.0,4.0,7.0,Normal,Work-life balance,0:02:10
+2022-06-10 12:40:00,Male,27,United states,Masters,Education,Data analyst,Yes,Sql,150k-225k,8.0,9.0,9.0,7.0,6.0,6.0,Normal,Compensation,0:02:40
+2022-06-10 12:47:00,Male,32,United states,Bachelors,Manufacturing,Data analyst,Yes,Python,66k-85k,4.0,10.0,10.0,8.0,5.0,6.0,Normal,Remote work,0:01:24
+2022-06-10 12:55:00,Male,50,Canada,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,5.0,4.0,4.0,4.0,4.0,Normal,Work-life balance,0:01:55
+2022-06-10 12:55:00,Male,29,United states,High School,Agriculture,Data architect,Yes,Python,66k-85k,7.0,7.0,8.0,9.0,10.0,10.0,Normal,Remote work,0:01:25
+2022-06-10 12:57:00,Male,41,Peru,Bachelors,Ecommerce,Data analyst,Yes,R,0-40k,2.0,8.0,7.0,6.0,5.0,6.0,Normal,Work-life balance,0:03:54
+2022-06-10 12:58:00,Male,23,United states,Associates,Power and energy,Data integrity,No,R,0-40k,1.0,7.0,7.0,1.0,4.0,10.0,Normal,Compensation,0:01:54
+2022-06-10 13:07:00,Male,31,Nigeria,Bachelors,Finance,Data analyst,Yes,Python,0-40k,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Compensation,0:03:34
+2022-06-10 13:08:00,Male,22,Philippines,Bachelors,Healthcare,Data analyst,No,Python,0-40k,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Compensation,0:01:27
+2022-06-10 13:08:00,Male,29,United states,Masters,Finance,Data analyst,No,Python,66k-85k,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Compensation,0:01:51
+2022-06-10 13:09:00,Male,23,Malaysia,Bachelors,Data and technology,Data scientist,Yes,Python,0-40k,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Workplace culture,0:02:04
+2022-06-10 13:12:00,Female,24,United states,High School,Customer service,Unemployed,No,,0-40k,0.0,0.0,1.0,1.0,0.0,1.0,Normal,Remote work,0:01:25
+2022-06-10 13:13:00,Male,26,United states,Bachelors,Manufacturing,Data analyst,Yes,Python,66k-85k,5.0,9.0,10.0,10.0,5.0,10.0,Normal,Compensation,0:02:09
+2022-06-10 13:16:00,Male,31,India,Bachelors,Finance,Unemployed,Yes,Python,0-40k,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Workplace culture,0:01:30
+2022-06-10 13:20:00,Male,22,Nigeria,Bachelors,Media and entertainment,Data analyst,Yes,Python,0-40k,1.0,1.0,1.0,1.0,7.0,9.0,Normal,Remote work,0:01:31
+2022-06-10 13:29:00,Male,31,Germany,Bachelors,Retail,Data analyst,Yes,Python,66k-85k,7.0,8.0,10.0,8.0,7.0,5.0,Normal,Remote work,0:02:32
+2022-06-10 13:31:00,Male,27,United states,Masters,Data and technology,Unemployed,Yes,Python,0-40k,0.0,4.0,0.0,0.0,4.0,5.0,Normal,Compensation,0:01:21
+2022-06-10 13:32:00,Female,25,United states,Bachelors,Unemployed,Unemployed,No,Python,0-40k,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Compensation,0:01:32
+2022-06-10 13:37:00,Male,30,Colombia,Masters,Healthcare,Data analyst,Yes,Python,0-40k,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Work-life balance,0:24:18
+2022-06-10 13:39:00,Male,28,United states,Masters,Healthcare,Data analyst,Yes,R,41k-65k,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Learning and growth,0:01:44
+2022-06-10 13:40:00,Male,26,United states,Bachelors,Finance,Data analyst,No,Python,125k-150k,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Remote work,0:01:37
+2022-06-10 13:51:00,Female,32,United states,Masters,Retail,Data scientist,Yes,Python,125k-150k,6.0,7.0,7.0,10.0,6.0,7.0,Normal,Remote work,0:01:40
+2022-06-10 13:52:00,Female,40,Poland,PhD,Advertising,Data analyst,Yes,Sql,0-40k,3.0,5.0,6.0,4.0,6.0,6.0,Normal,Compensation,0:02:41
+2022-06-10 13:54:00,Male,36,Singapore,Associates,Manufacturing,Data engineer,Yes,Python,0-40k,4.0,7.0,7.0,6.0,8.0,7.0,Normal,Compensation,0:02:38
+2022-06-10 13:54:00,Male,35,United states,Bachelors,Finance,Data analyst,Yes,Python,66k-85k,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Compensation,0:01:29
+2022-06-10 13:56:00,Male,29,United states,Masters,Data and technology,Data analyst,Yes,Python,66k-85k,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Work-life balance,0:00:59
+2022-06-10 13:56:00,Female,25,Germany,Masters,Finance,Data analyst,No,Python,41k-65k,6.0,5.0,9.0,9.0,7.0,5.0,Normal,Repositioning,0:04:08
+2022-06-10 13:56:00,Male,29,United states,Bachelors,Hospitality,Business analyst,Yes,Python,41k-65k,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Remote work,0:02:05
+2022-06-10 14:01:00,Male,26,United states,Bachelors,Agriculture,Data analyst,No,Python,86k-105k,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Work-life balance,0:02:04
+2022-06-10 14:01:00,Male,34,Ghana,Bachelors,Advertising,Data analyst,No,R,0-40k,1.0,1.0,1.0,1.0,1.0,1.0,Normal,Remote work,0:02:02
+2022-06-10 14:02:00,Male,26,Egypt,Bachelors,Finance,Data analyst,Yes,Python,0-40k,5.0,2.0,5.0,4.0,3.0,5.0,Normal,Work-life balance,0:01:27
+2022-06-10 14:05:00,Female,22,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Learning and growth,0:02:11
+2022-06-10 14:09:00,Female,24,Kenya,Bachelors,Manufacturing,Unemployed,Yes,Python,0-40k,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Remote work,0:01:40
+2022-06-10 14:12:00,Male,26,Costa rica,Bachelors,Healthcare,Data analyst,No,Python,0-40k,3.0,6.0,6.0,6.0,4.0,3.0,Normal,Compensation,0:03:09
+2022-06-10 14:12:00,Female,34,Portugal,Masters,Finance,Data architect,Yes,Python,0-40k,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Work-life balance,0:03:13
+2022-06-10 14:13:00,Male,29,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,3.0,5.0,4.0,5.0,4.0,2.0,Normal,Compensation,0:02:27
+2022-06-10 14:14:00,Male,21,Nigeria,Bachelors,Data and technology,Data scientist,No,R,0-40k,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Compensation,0:01:27
+2022-06-10 14:14:00,Female,35,Macedonia,Masters,Management,Data analyst,No,Python,0-40k,2.0,4.0,5.0,3.0,1.0,1.0,Normal,Work-life balance,0:02:47
+2022-06-10 14:15:00,Male,26,United states,Bachelors,Education,Data analyst,No,Python,41k-65k,7.0,7.0,8.0,8.0,6.0,7.0,Normal,Work-life balance,0:01:43
+2022-06-10 14:16:00,Male,28,United states,Bachelors,Retail,Data analyst,Yes,Python,41k-65k,2.0,4.0,7.0,10.0,5.0,10.0,Normal,Remote work,0:01:42
+2022-06-10 14:23:00,Female,33,United states,Bachelors,Culture and social work,Business analyst,No,Python,41k-65k,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Compensation,0:02:02
+2022-06-10 14:25:00,Female,56,United states,Bachelors,Consulting,Data analyst,Yes,Sql,66k-85k,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Compensation,0:01:57
+2022-06-10 14:31:00,Male,23,India,Bachelors,Finance,Software engineer,No,Python,0-40k,3.0,3.0,6.0,5.0,,4.0,Difficult,Work-life balance,0:04:30
+2022-06-10 14:41:00,Male,28,United states,Masters,Healthcare,Data scientist,Yes,Python,125k-150k,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Compensation,0:01:16
+2022-06-10 14:42:00,Male,21,Egypt,High School,Unemployed,Unemployed,No,Javascript,0-40k,0.0,0.0,0.0,0.0,0.0,10.0,Normal,Remote work,0:01:44
+2022-06-10 14:43:00,Male,35,United states,Masters,Culture and social work,Unemployed,No,Python,66k-85k,2.0,2.0,4.0,1.0,2.0,1.0,Normal,Work-life balance,0:02:14
+2022-06-10 14:43:00,Male,29,Ireland,Masters,Healthcare,Data analyst,No,Python,41k-65k,7.0,5.0,9.0,9.0,9.0,8.0,Normal,Remote work,0:01:25
+2022-06-10 14:47:00,Female,23,United states,Bachelors,Data and technology,Data analyst,No,Python,86k-105k,9.0,10.0,8.0,8.0,7.0,7.0,Normal,Interesting projects,0:01:18
+2022-06-10 14:48:00,Male,25,India,Bachelors,Finance,Tableau admin,No,Python,41k-65k,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Work-life balance,0:03:06
+2022-06-10 14:51:00,Male,27,United states,Masters,Ecommerce,Data engineer,Yes,Python,86k-105k,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Compensation,0:01:36
+2022-06-10 14:53:00,Male,22,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,3.0,8.0,7.0,5.0,8.0,7.0,Normal,Compensation,0:01:54
+2022-06-10 14:58:00,Male,22,India,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,6.0,3.0,5.0,7.0,5.0,7.0,Normal,Work-life balance,0:02:02
+2022-06-10 15:01:00,Male,43,United states,Masters,Other,Other,No,Java,106k-125k,7.0,7.0,4.0,5.0,5.0,4.0,Normal,Compensation,0:01:41
+2022-06-10 15:03:00,Female,32,United states,Bachelors,Data and technology,Reporting adm,Yes,Python,0-40k,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Compensation,0:05:13
+2022-06-10 15:10:00,Female,42,United states,Masters,Healthcare,Unemployed,Yes,Unspecified,66k-85k,,,,,,0.0,Difficult,Work-life balance,0:01:06
+2022-06-10 15:11:00,Male,31,United states,Bachelors,Law enforcement,Data analyst,No,Python,66k-85k,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Remote work,0:01:40
+2022-06-10 15:14:00,Male,25,United kingdom,Bachelors,Advertising,Data engineer,No,Python,0-40k,0.0,10.0,10.0,5.0,0.0,3.0,Normal,Compensation,0:01:20
+2022-06-10 15:14:00,Female,25,United states,Masters,Agriculture,Data analyst,No,Sql,41k-65k,3.0,5.0,5.0,5.0,3.0,2.0,Normal,Compensation,0:01:49
+2022-06-10 15:14:00,Male,31,United states,Masters,Aerospace and defense,Data analyst,Yes,Sas,106k-125k,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Work-life balance,0:01:27
+2022-06-10 15:23:00,Male,36,Morocco,Masters,Education,Data scientist,Yes,Python,0-40k,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Compensation,0:01:23
+2022-06-10 15:25:00,Female,35,Bulgaria,Masters,Healthcare,Data scientist,No,Python,41k-65k,6.0,8.0,8.0,8.0,8.0,10.0,Normal,Work-life balance,0:02:24
+2022-06-10 15:27:00,Male,28,United states,Bachelors,Utilities,Data analyst,Yes,R,66k-85k,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Remote work,0:01:40
+2022-06-10 15:28:00,Male,27,Peru,Bachelors,Audit firm,Data analyst,No,Python,0-40k,8.0,8.0,9.0,9.0,8.0,7.0,Normal,Compensation,0:01:55
+2022-06-10 15:30:00,Male,25,Costa rica,Bachelors,Media and entertainment,Data analyst,Yes,Python,0-40k,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Work-life balance,0:01:23
+2022-06-10 15:39:00,Male,25,Poland,Bachelors,Ecommerce,Data analyst,No,Python,0-40k,6.0,6.0,10.0,8.0,6.0,8.0,Normal,Compensation,0:01:59
+2022-06-10 15:41:00,Male,22,United states,Masters,Advertising,Marketing data specialist,No,R,41k-65k,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Work-life balance,0:01:10
+2022-06-10 15:51:00,Male,38,Germany,High School,Healthcare,Data analyst,Yes,,41k-65k,7.0,8.0,8.0,4.0,6.0,8.0,Normal,Workplace culture,0:03:49
+2022-06-10 15:55:00,Male,27,Kenya,Bachelors,Education,Data analyst,Yes,Python,0-40k,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Workplace culture,0:01:47
+2022-06-10 15:57:00,Female,34,Canada,Bachelors,Consulting,Data analyst,Yes,,86k-105k,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Remote work,0:02:55
+2022-06-10 16:03:00,Female,31,United states,Bachelors,Culture and social work,Data analyst,Yes,Python,66k-85k,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Compensation,0:01:45
+2022-06-10 16:09:00,Female,33,Canada,Masters,Data and technology,Data analyst,Yes,Python,41k-65k,4.0,9.0,8.0,8.0,6.0,10.0,Normal,Compensation,0:03:52
+2022-06-10 16:22:00,Male,23,United states,Bachelors,Data and technology,Unemployed,Yes,Python,0-40k,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Remote work,0:00:59
+2022-06-10 16:26:00,Female,25,United states,Bachelors,Healthcare,Data analyst,Yes,Dax,41k-65k,3.0,10.0,9.0,10.0,5.0,0.0,Normal,Compensation,0:01:26
+2022-06-10 16:30:00,Male,29,Iran,Masters,Data and technology,Data analyst,Yes,Python,0-40k,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Compensation,0:01:54
+2022-06-10 16:33:00,Female,29,United states,Masters,Healthcare,Data analyst,Yes,R,41k-65k,5.0,7.0,9.0,8.0,8.0,8.0,Normal,Compensation,0:02:16
+2022-06-10 16:36:00,Male,31,India,Masters,Data and technology,Data analyst,Yes,R,0-40k,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Compensation,0:01:45
+2022-06-10 16:38:00,Male,34,South africa,High School,Government,Unemployed,No,R,0-40k,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Remote work,0:01:33
+2022-06-10 16:40:00,Male,26,Bangladesh,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Work-life balance,0:02:04
+2022-06-10 16:44:00,Female,26,United states,Bachelors,Healthcare,Data scientist,No,Python,86k-105k,4.0,6.0,5.0,6.0,6.0,4.0,Normal,Remote work,0:01:34
+2022-06-10 16:49:00,Male,27,United states,Masters,Law enforcement,Continuous quality improvement specialist,Yes,Dax,41k-65k,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Mentorship,0:02:55
+2022-06-10 16:52:00,Male,26,United states,Bachelors,Logistics,Data analyst,Yes,Python,66k-85k,8.0,5.0,9.0,6.0,6.0,10.0,Normal,Remote work,0:01:42
+2022-06-10 16:53:00,Female,26,United states,Masters,Data and technology,Unemployed,Yes,Python,0-40k,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Compensation,0:03:01
+2022-06-10 17:01:00,Male,24,United states,Bachelors,Finance,Data analyst,Yes,R,41k-65k,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Compensation,0:01:18
+2022-06-10 17:06:00,Female,28,Ireland,Masters,Retail,Data analyst,Yes,Python,86k-105k,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Compensation,0:02:18
+2022-06-10 17:09:00,Male,29,United states,Bachelors,Manufacturing,Data analyst,Yes,R,106k-125k,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Compensation,0:01:18
+2022-06-10 17:13:00,Female,26,United states,Masters,Finance,Data analyst,Yes,Python,66k-85k,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Compensation,0:01:02
+2022-06-10 17:40:00,Male,28,United kingdom,Bachelors,Aerospace and defense,Data analyst,Yes,Python,41k-65k,3.0,5.0,3.0,3.0,1.0,1.0,Normal,Compensation,0:01:19
+2022-06-10 17:41:00,Male,25,France,Masters,Finance,Data analyst,No,Python,0-40k,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Interesting projects,0:04:19
+2022-06-10 17:47:00,Female,26,United states,Bachelors,Finance,Data analyst,Yes,R,66k-85k,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Compensation,0:01:30
+2022-06-10 18:00:00,Female,38,United states,Masters,Healthcare,Data engineer,Yes,Python,125k-150k,6.0,3.0,9.0,5.0,8.0,8.0,Normal,Remote work,0:05:36
+2022-06-10 18:05:00,Female,20,Nigeria,High School,Education,Other,Yes,Sql,0-40k,0.0,3.0,3.0,3.0,4.0,4.0,Normal,Compensation,0:02:00
+2022-06-10 18:12:00,Female,45,United states,Masters,Education,Data analyst,No,Sql,66k-85k,4.0,6.0,7.0,7.0,2.0,2.0,Normal,Remote work,0:02:04
+2022-06-10 18:17:00,Male,27,Canada,Masters,Advertising,Data analyst,No,Python,86k-105k,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Work-life balance,0:01:18
+2022-06-10 18:23:00,Male,28,Canada,Masters,Consulting,Data analyst,Yes,Python,41k-65k,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Workplace culture,0:02:58
+2022-06-10 18:30:00,Female,29,Germany,Bachelors,Unemployed,Unemployed,Yes,R,0-40k,2.0,10.0,10.0,10.0,10.0,3.0,Normal,Remote work,0:04:30
+2022-06-10 18:38:00,Female,43,Singapore,High School,Data and technology,Pmo,No,C/c++,41k-65k,7.0,7.0,7.0,7.0,7.0,7.0,Normal,Compensation,0:01:57
+2022-06-10 18:40:00,Male,26,Antigua,Bachelors,Finance,Data analyst,Yes,Python,0-40k,0.0,5.0,9.0,9.0,0.0,10.0,Normal,Remote work,0:02:27
+2022-06-10 18:48:00,Female,47,United states,Bachelors,Data and technology,Unemployed,No,Sql,41k-65k,7.0,8.0,7.0,7.0,8.0,7.0,Normal,Compensation,0:04:17
+2022-06-10 18:51:00,Male,23,Nigeria,Bachelors,Finance,Unemployed,Yes,Python,0-40k,,,,8.0,10.0,10.0,Easy,Remote work,0:01:42
+2022-06-10 18:55:00,Male,25,Egypt,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Compensation,0:01:20
+2022-06-10 19:04:00,Male,32,Poland,Masters,Finance,System administrator,No,Python,0-40k,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Learning and growth,0:02:02
+2022-06-10 19:12:00,Female,25,United states,Bachelors,Finance,Data analyst,Yes,Python,0-40k,1.0,10.0,10.0,5.0,3.0,1.0,Normal,Compensation,0:01:09
+2022-06-10 19:22:00,Female,29,Venezuela,Bachelors,Finance,Data analyst,No,Python,0-40k,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Remote work,0:02:40
+2022-06-10 19:27:00,Female,33,United states,Bachelors,Healthcare,Data analyst,No,Sql,41k-65k,3.0,7.0,5.0,5.0,3.0,3.0,Normal,Compensation,0:01:11
+2022-06-10 19:50:00,Male,36,United states,Masters,Education,Data analyst,No,Python,106k-125k,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Learning and growth,0:04:51
+2022-06-10 19:53:00,Male,25,United states,Bachelors,Healthcare,Data analyst,Yes,Python,41k-65k,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Work-life balance,0:01:32
+2022-06-10 19:59:00,Male,38,United states,Masters,Other,Data scientist,No,Python,150k-225k,8.0,7.0,8.0,7.0,7.0,8.0,Normal,Work-life balance,0:03:19
+2022-06-10 20:05:00,Male,30,United states,Masters,Power and energy,Data analyst,Yes,R,66k-85k,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Work-life balance,0:03:42
+2022-06-10 20:32:00,Male,35,United states,Masters,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Workplace culture,0:01:48
+2022-06-10 20:34:00,Female,42,United states,Bachelors,Education,Educator,No,Sql,41k-65k,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Compensation,0:01:44
+2022-06-10 21:16:00,Male,30,United states,Masters,Healthcare,Data analyst,Yes,Python,66k-85k,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Remote work,0:01:40
+2022-06-10 21:23:00,Female,25,Nigeria,Bachelors,Unemployed,Unemployed,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Compensation,0:01:57
+2022-06-10 21:45:00,Female,28,United states,Bachelors,Healthcare,Data analyst,No,Python,86k-105k,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Workplace culture,1:09:45
+2022-06-10 21:57:00,Male,28,Canada,Bachelors,Manufacturing,Data analyst,Yes,Python,0-40k,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Compensation,0:04:54
+2022-06-10 21:58:00,Male,20,Malaysia,High School,Unemployed,Unemployed,No,Sql,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Normal,Compensation,0:00:59
+2022-06-10 22:22:00,Male,33,United states,Masters,Manufacturing,Data analyst,Yes,Vba,106k-125k,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Workplace culture,0:02:26
+2022-06-10 22:29:00,Male,23,United states,Associates,Data and technology,Data analyst,No,Python,66k-85k,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Compensation,0:12:09
+2022-06-10 22:32:00,Female,35,Brazil,Bachelors,Healthcare,Data analyst,Yes,R,0-40k,4.0,5.0,7.0,7.0,5.0,7.0,Normal,Compensation,0:00:43
+2022-06-10 22:48:00,Male,22,India,Bachelors,Automobile,Unemployed,Yes,Python,0-40k,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Work-life balance,0:04:01
+2022-06-10 22:53:00,Male,33,India,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Compensation,0:02:40
+2022-06-10 22:54:00,Male,22,United states,Bachelors,Government,Data engineer,No,Python,0-40k,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Compensation,0:00:59
+2022-06-10 22:56:00,Male,35,United states,Bachelors,Logistics,Data analyst,Yes,R,86k-105k,7.0,8.0,8.0,7.0,5.0,9.0,Normal,Remote work,0:03:27
+2022-06-10 23:03:00,Female,37,United states,Masters,Agriculture,Data analyst,Yes,Sql,66k-85k,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Work-life balance,0:02:55
+2022-06-10 23:08:00,Male,22,United states,Associates,Finance,Unemployed,Yes,Python,0-40k,4.0,,,,,,Very Easy,Compensation,0:00:51
+2022-06-10 23:18:00,Male,36,United states,Masters,Healthcare,Data analyst,Yes,Python,66k-85k,10.0,10.0,10.0,7.0,10.0,10.0,Normal,Compensation,0:02:12
+2022-06-10 23:31:00,Male,26,India,Bachelors,Food and beverage,Data scientist,Yes,Python,86k-105k,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Work-life balance,0:02:29
+2022-06-10 23:35:00,Female,25,South korea,Bachelors,Market research,Data analyst,Yes,R,0-40k,3.0,2.0,6.0,5.0,5.0,6.0,Normal,Workplace culture,0:05:15
+2022-06-10 23:36:00,Female,34,United states,High School,Government,Data analyst,Yes,R,41k-65k,4.0,6.0,6.0,5.0,5.0,6.0,Normal,Remote work,0:02:55
+2022-06-10 23:37:00,Male,33,Chile,Bachelors,Food and beverage,Data analyst,Yes,Python,0-40k,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Remote work,0:02:58
+2022-06-10 23:49:00,Male,37,United states,Bachelors,Retail,Unemployed,No,Python,41k-65k,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Work-life balance,0:02:00
+2022-06-10 23:51:00,Female,54,United states,High School,Advertising,Data analyst,No,Python,66k-85k,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Compensation,0:01:27
+2022-06-11 00:18:00,Male,26,India,Bachelors,Finance,Data analyst,Yes,Python,0-40k,2.0,,,,,,Very Easy,Compensation,0:00:59
+2022-06-11 00:26:00,Female,27,United states,Masters,Education,Data analyst,No,R,41k-65k,4.0,7.0,7.0,7.0,2.0,7.0,Normal,Compensation,0:01:49
+2022-06-11 00:26:00,Male,24,United kingdom,Bachelors,Ecommerce,Business analyst,Yes,Sql,0-40k,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Compensation,0:02:20
+2022-06-11 00:46:00,Male,24,Egypt,Bachelors,Finance,Data analyst,Yes,Python,0-40k,5.0,5.0,5.0,5.0,5.0,10.0,Normal,Compensation,0:01:41
+2022-06-11 01:02:00,Male,27,Panama,Bachelors,Consulting,Consultant,Yes,Python,0-40k,3.0,4.0,5.0,3.0,2.0,3.0,Normal,Compensation,0:01:29
+2022-06-11 01:04:00,Male,25,Indonesia,Bachelors,Unemployed,Unemployed,No,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Remote work,0:01:37
+2022-06-11 01:14:00,Female,28,United kingdom,Masters,Data and technology,Data analyst,Yes,Python,0-40k,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Compensation,0:02:47
+2022-06-11 01:16:00,Male,21,United states,Bachelors,Education,Business intelligence specialist,No,Python,41k-65k,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Remote work,0:01:23
+2022-06-11 01:19:00,Female,28,United states,Bachelors,Healthcare,Data analyst,Yes,Unspecified,86k-105k,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Work-life balance,0:01:15
+2022-06-11 01:24:00,Male,30,Ghana,Masters,Data and technology,Data analyst,Yes,Python,0-40k,3.0,5.0,5.0,5.0,5.0,2.0,Normal,Remote work,0:03:20
+2022-06-11 01:36:00,Male,24,Angola,Associates,Education,Data analyst,No,Python,0-40k,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Remote work,0:02:39
+2022-06-11 01:51:00,Male,26,India,Bachelors,Healthcare,Data analyst,Yes,Python,0-40k,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Remote work,0:02:01
+2022-06-11 02:32:00,Female,19,Bangladesh,High School,Data and technology,Data analyst,Yes,Python,0-40k,,,,,,5.0,Normal,Work-life balance,0:03:23
+2022-06-11 03:04:00,Female,92,India,Masters,Customer service,Unemployed,No,Python,0-40k,5.0,6.0,6.0,5.0,1.0,3.0,Normal,Work-life balance,0:04:03
+2022-06-11 03:05:00,Male,28,Nigeria,Bachelors,Healthcare,Data analyst,Yes,Python,0-40k,1.0,8.0,5.0,1.0,7.0,8.0,Normal,Remote work,0:02:33
+2022-06-11 03:07:00,Female,24,India,Masters,Education,Unemployed,Yes,Python,0-40k,0.0,1.0,2.0,2.0,1.0,1.0,Normal,Compensation,0:01:34
+2022-06-11 03:13:00,Male,25,United states,Masters,Healthcare,Informatics specialist,No,Python,41k-65k,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Compensation,0:03:39
+2022-06-11 03:18:00,Male,42,United kingdom,Masters,Finance,Data analyst,Yes,Python,41k-65k,4.0,5.0,5.0,5.0,6.0,6.0,Normal,Work-life balance,0:04:04
+2022-06-11 03:40:00,Male,21,India,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Compensation,0:01:05
+2022-06-11 03:47:00,Male,24,United states,Bachelors,Healthcare,Data analyst,No,Python,66k-85k,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Compensation,0:02:36
+2022-06-11 03:57:00,Female,26,United states,Bachelors,Healthcare,Data analyst,Yes,Python,41k-65k,4.0,7.0,6.0,6.0,6.0,7.0,Normal,Compensation,0:02:32
+2022-06-11 04:01:00,Male,30,United kingdom,Bachelors,Cosmetics,Data analyst,Yes,Python,0-40k,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Compensation,0:01:16
+2022-06-11 04:13:00,Male,27,United states,Bachelors,Data and technology,Data engineer,Yes,Sql,86k-105k,6.0,10.0,10.0,10.0,10.0,10.0,Normal,Workplace culture,0:05:51
+2022-06-11 04:24:00,Male,28,India,Bachelors,Data and technology,Data engineer,Yes,Python,0-40k,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Compensation,0:02:01
+2022-06-11 05:02:00,Female,29,United kingdom,Bachelors,Government,Data analyst,No,Sql,66k-85k,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Compensation,0:02:27
+2022-06-11 05:12:00,Female,26,India,Bachelors,Home and living,Data analyst,No,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Work-life balance,0:02:43
+2022-06-11 05:25:00,Male,29,Nigeria,Bachelors,Finance,Data engineer,Yes,Python,0-40k,3.0,3.0,3.0,3.0,3.0,4.0,Normal,Remote work,0:02:47
+2022-06-11 05:28:00,Male,60,United kingdom,Masters,Finance,Business analyst,No,,66k-85k,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Remote work,0:01:51
+2022-06-11 06:11:00,Male,25,Nigeria,Bachelors,Healthcare,Data analyst,Yes,Python,0-40k,5.0,8.0,8.0,5.0,5.0,6.0,Normal,Compensation,0:01:55
+2022-06-11 06:13:00,Female,37,Nigeria,Masters,Manufacturing,Data analyst,No,R,0-40k,0.0,0.0,1.0,3.0,2.0,1.0,Normal,Work-life balance,0:03:13
+2022-06-11 06:26:00,Female,30,Canada,Bachelors,Finance,Data analyst,Yes,Python,66k-85k,6.0,8.0,3.0,4.0,5.0,1.0,Normal,Compensation,0:01:31
+2022-06-11 07:00:00,Female,27,Nigeria,Masters,Healthcare,Data analyst,Yes,Python,0-40k,0.0,1.0,2.0,1.0,0.0,3.0,Normal,Compensation,0:04:48
+2022-06-11 07:09:00,Male,31,United states,PhD,Data and technology,Data scientist,Yes,R,225k+,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,Workplace culture,0:01:04
+2022-06-11 07:15:00,Male,24,United kingdom,Masters,Unemployed,Unemployed,No,R,0-40k,10.0,10.0,10.0,10.0,10.0,10.0,Normal,Work-life balance,0:02:11
+2022-06-11 07:28:00,Female,20,United states,Bachelors,Finance,Data analyst,No,Matlab,0-40k,0.0,6.0,6.0,6.0,5.0,6.0,Normal,Compensation,0:03:11
+2022-06-11 07:36:00,Male,24,India,Bachelors,Data and technology,Web developer,No,R,0-40k,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Work-life balance,0:02:30
+2022-06-11 07:37:00,Male,24,Romania,Bachelors,Manufacturing,Unemployed,Yes,R,0-40k,3.0,6.0,7.0,6.0,4.0,4.0,Normal,Work-life balance,0:01:32
+2022-06-11 07:38:00,Male,41,Spain,Bachelors,Unemployed,Unemployed,No,R,0-40k,0.0,1.0,3.0,0.0,0.0,0.0,Normal,Work-life balance,0:01:30
+2022-06-11 07:40:00,Male,41,United states,Bachelors,Data and technology,Data analyst,Yes,R,86k-105k,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Compensation,0:02:12
+2022-06-11 08:07:00,Male,43,United states,Bachelors,Retail,Manager,No,Python,150k-225k,9.0,8.0,9.0,10.0,8.0,10.0,Normal,Workplace culture,0:01:52
+2022-06-11 08:09:00,Female,38,United states,Bachelors,Healthcare,Data analyst,No,Python,66k-85k,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Remote work,0:01:53
+2022-06-11 08:14:00,Female,28,Philippines,Bachelors,Retail,Data analyst,Yes,Python,0-40k,5.0,5.0,5.0,5.0,5.0,6.0,Normal,Compensation,0:01:53
+2022-06-11 08:18:00,Female,31,Germany,Bachelors,Healthcare,Data analyst,Yes,Python,86k-105k,10.0,8.0,6.0,10.0,7.0,5.0,Normal,Workplace culture,0:01:30
+2022-06-11 08:36:00,Female,28,United states,Masters,Government,Data analyst,Yes,Sas,86k-105k,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Work-life balance,0:01:31
+2022-06-11 08:38:00,Male,23,United states,Masters,Healthcare,Data analyst,No,C/c++,41k-65k,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Remote work,0:00:55
+2022-06-11 08:40:00,Male,25,United kingdom,Bachelors,Utilities,Data analyst,No,Python,41k-65k,5.0,5.0,4.0,5.0,6.0,6.0,Normal,Compensation,0:01:47
+2022-06-11 08:40:00,Male,26,Poland,Masters,Data and technology,Software engineer,No,R,0-40k,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Remote work,0:01:22
+2022-06-11 08:42:00,Male,35,United states,Bachelors,Finance,Data scientist,Yes,Python,125k-150k,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Work-life balance,0:00:47
+2022-06-11 08:52:00,Male,30,Denmark,Masters,Retail,Data analyst,Yes,R,106k-125k,8.0,9.0,9.0,7.0,8.0,8.0,Normal,Remote work,0:01:43
+2022-06-11 08:59:00,Male,35,United kingdom,Bachelors,Data and technology,Data analyst,Yes,R,86k-105k,3.0,,,,,,Normal,Compensation,0:01:38
+2022-06-11 09:02:00,Male,28,Panama,Bachelors,Ecommerce,Data analyst,Yes,Python,0-40k,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Compensation,0:02:06
+2022-06-11 09:17:00,Female,24,Nigeria,Bachelors,Data and technology,Unemployed,No,Python,0-40k,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Work-life balance,0:02:01
+2022-06-11 09:40:00,Female,34,United states,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,8.0,10.0,7.0,5.0,6.0,5.0,Normal,Workplace culture,0:04:32
+2022-06-11 09:52:00,Female,31,Germany,Masters,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,5.0,4.0,5.0,3.0,6.0,Normal,Work-life balance,0:01:52
+2022-06-11 09:53:00,Male,30,United kingdom,Masters,Data and technology,Data analyst,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Work-life balance,0:01:06
+2022-06-11 09:53:00,Male,40,United kingdom,Bachelors,Logistics,Data engineer,Yes,Javascript,86k-105k,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Compensation,0:01:28
+2022-06-11 10:00:00,Male,26,United states,Bachelors,Consulting,Data analyst,No,R,41k-65k,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Compensation,0:02:02
+2022-06-11 10:16:00,Male,25,United states,Bachelors,Healthcare,Data analyst,No,R,125k-150k,9.0,9.0,6.0,6.0,6.0,7.0,Normal,Workplace culture,0:01:00
+2022-06-11 10:38:00,Male,45,Greece,Associates,Data and technology,Data analyst,Yes,Sql,0-40k,,5.0,8.0,4.0,8.0,4.0,Easy,Workplace culture,0:02:27
+2022-06-11 10:50:00,Male,26,United states,Masters,Finance,Data analyst,No,R,41k-65k,7.0,9.0,8.0,6.0,6.0,9.0,Normal,Workplace culture,0:03:12
+2022-06-11 11:08:00,Male,26,India,Masters,Finance,Data scientist,No,Python,0-40k,7.0,7.0,8.0,6.0,6.0,4.0,Normal,Work-life balance,0:01:43
+2022-06-11 11:11:00,Male,23,India,Masters,Finance,Research associate,Yes,Python,0-40k,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Compensation,0:02:44
+2022-06-11 11:18:00,Male,25,India,Masters,Data and technology,Data engineer,Yes,Python,106k-125k,4.0,4.0,4.0,4.0,5.0,6.0,Normal,Work-life balance,0:00:56
+2022-06-11 11:19:00,Female,33,United states,High School,Healthcare,Data analyst,Yes,R,41k-65k,4.0,5.0,6.0,6.0,5.0,6.0,Normal,Compensation,0:01:11
+2022-06-11 11:21:00,Male,33,India,Bachelors,Ecommerce,Business analyst,No,Sql,0-40k,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Learning and growth,0:02:02
+2022-06-11 11:37:00,Male,27,United states,Bachelors,Healthcare,Data analyst,Yes,R,86k-105k,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Workplace culture,0:01:13
+2022-06-11 12:12:00,Female,28,United states,Masters,Data and technology,Data analyst,Yes,Python,106k-125k,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Remote work,0:01:59
+2022-06-11 12:13:00,Male,32,United states,Bachelors,Data and technology,Data analyst,Yes,Python,66k-85k,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Compensation,0:03:18
+2022-06-11 12:36:00,Male,35,India,Masters,Data and technology,Data analyst,Yes,Python,0-40k,2.0,6.0,3.0,6.0,6.0,7.0,Normal,Compensation,0:01:24
+2022-06-11 12:40:00,Male,34,United states,Masters,Government,Data analyst,Yes,Python,86k-105k,8.0,9.0,10.0,10.0,9.0,10.0,Normal,Workplace culture,0:01:49
+2022-06-11 12:42:00,Male,27,Germany,Masters,Electronics,Data analyst,No,Python,41k-65k,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Compensation,0:01:39
+2022-06-11 12:50:00,Female,30,United states,Masters,Education,Data coordinator,Yes,R,66k-85k,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Workplace culture,0:02:30
+2022-06-11 13:16:00,Male,34,United states,Masters,Logistics,Data analyst,No,Python,66k-85k,8.0,9.0,9.0,9.0,9.0,10.0,Normal,Compensation,0:02:06
+2022-06-11 13:17:00,Female,22,United states,Bachelors,Utilities,Data analyst,No,Python,41k-65k,3.0,10.0,6.0,5.0,7.0,8.0,Normal,Remote work,0:02:20
+2022-06-11 13:25:00,Female,33,India,Masters,Finance,Data analyst,Yes,Python,0-40k,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Work-life balance,0:01:02
+2022-06-11 13:27:00,Female,26,India,Masters,Finance,Data analyst,No,Python,0-40k,8.0,9.0,9.0,9.0,9.0,9.0,Normal,Compensation,0:01:53
+2022-06-11 13:30:00,Male,28,Argentina,Bachelors,Data and technology,Data engineer,Yes,Python,0-40k,0.0,5.0,8.0,6.0,5.0,7.0,Normal,Compensation,0:01:36
+2022-06-11 13:56:00,Male,42,United kingdom,Bachelors,Transportation,Driver,No,Python,0-40k,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Remote work,0:05:32
+2022-06-11 13:59:00,Male,30,Morocco,Masters,Culture and social work,Data analyst,No,R,0-40k,4.0,10.0,2.0,3.0,2.0,3.0,Normal,Compensation,0:02:06
+2022-06-11 14:07:00,Male,25,United states,Associates,Data and technology,Data scientist,Yes,Sql,106k-125k,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Compensation,0:01:22
+2022-06-11 14:22:00,Male,32,United states,Bachelors,Manufacturing,Data analyst,Yes,Python,41k-65k,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Compensation,0:01:00
+2022-06-11 14:47:00,Male,31,Germany,Masters,Data and technology,Data analyst,No,Python,0-40k,3.0,4.0,5.0,5.0,6.0,6.0,Normal,Compensation,0:01:56
+2022-06-11 14:54:00,Male,30,United arab emirates,High School,Education,Data analyst,Yes,Python,150k-225k,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Remote work,10:34:43
+2022-06-11 14:57:00,Male,23,Canada,Bachelors,Retail,Unemployed,Yes,Python,0-40k,0.0,6.0,6.0,2.0,0.0,3.0,Normal,Compensation,0:02:26
+2022-06-11 16:11:00,Female,31,United kingdom,Bachelors,Education,Data manager,No,R,66k-85k,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Remote work,0:02:17
+2022-06-11 16:42:00,Female,29,Finland,Masters,Aerospace and defense,Data analyst,No,Python,41k-65k,7.0,5.0,9.0,9.0,4.0,9.0,Normal,Work-life balance,0:02:40
+2022-06-11 16:52:00,Male,24,Nigeria,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,5.0,4.0,4.0,5.0,7.0,10.0,Normal,Remote work,0:02:38
+2022-06-11 17:05:00,Male,36,United states,Masters,Government,Data analyst,No,Python,41k-65k,2.0,7.0,6.0,5.0,6.0,4.0,Normal,Compensation,0:02:38
+2022-06-11 17:21:00,Female,32,United states,Masters,Government,Data analyst,Yes,R,41k-65k,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote work,0:02:29
+2022-06-11 17:53:00,Female,36,United states,Bachelors,Healthcare,Business analyst,Yes,Python,86k-105k,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Remote work,0:03:55
+2022-06-11 18:05:00,Male,30,United states,Bachelors,Healthcare,Data engineer,No,Sql,106k-125k,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Compensation,0:01:53
+2022-06-11 18:30:00,Male,42,Sudan,Masters,Unemployed,Unemployed,Yes,R,0-40k,0.0,2.0,2.0,3.0,3.0,4.0,Normal,Work-life balance,0:05:09
+2022-06-11 18:43:00,Male,53,Austria,PhD,Healthcare,Data analyst,Yes,Dax,86k-105k,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Remote work,0:03:26
+2022-06-11 18:57:00,Male,25,Kenya,High School,Finance,Data analyst,No,Python,0-40k,1.0,7.0,4.0,10.0,10.0,10.0,Normal,Compensation,0:03:17
+2022-06-11 19:06:00,Male,23,Leba,Bachelors,Healthcare,Data analyst,No,Python,0-40k,1.0,5.0,4.0,6.0,5.0,6.0,Normal,Compensation,0:02:21
+2022-06-11 19:30:00,Male,36,Saudi arabia,Bachelors,Agriculture,Data analyst,Yes,Python,0-40k,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Compensation,0:03:25
+2022-06-11 19:32:00,Male,32,United arab emirates,Bachelors,Healthcare,Data analyst,Yes,Sql,41k-65k,,,,,,6.0,Easy,Work-life balance,0:09:42
+2022-06-11 19:37:00,Male,25,United states,Masters,Finance,Data analyst,No,Python,86k-105k,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,All,0:01:23
+2022-06-11 20:53:00,Female,35,United kingdom,Masters,Data and technology,Data engineer,Yes,Python,41k-65k,4.0,4.0,3.0,4.0,4.0,5.0,Normal,Remote work,0:03:19
+2022-06-11 21:05:00,Male,26,United states,Bachelors,Data and technology,Data analyst,Yes,R,66k-85k,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Compensation,0:01:19
+2022-06-11 21:08:00,Male,22,United states,Bachelors,Data and technology,Unemployed,No,Python,0-40k,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Remote work,0:01:07
+2022-06-11 22:13:00,Male,30,Canada,Masters,Automobile,Data scientist,Yes,Python,86k-105k,6.0,8.0,10.0,9.0,6.0,8.0,Normal,Compensation,0:01:43
+2022-06-11 22:27:00,Male,36,United states,Masters,Logistics,Data analyst,Yes,Python,66k-85k,2.0,8.0,6.0,1.0,8.0,10.0,Normal,Compensation,0:02:37
+2022-06-11 22:43:00,Female,30,United states,Masters,Healthcare,Data analyst,Yes,R,66k-85k,4.0,4.0,5.0,5.0,4.0,6.0,Normal,All,0:02:25
+2022-06-11 23:04:00,Male,29,United states,Bachelors,Finance,Data scientist,Yes,Python,106k-125k,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Remote work,0:01:35
+2022-06-11 23:18:00,Male,30,United states,Masters,Consulting,Business intelligence specialist,Yes,R,66k-85k,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Learning and growth,0:04:47
+2022-06-11 23:39:00,Male,24,United states,Bachelors,Finance,Data engineer,No,Python,41k-65k,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Compensation,0:01:03
+2022-06-12 00:29:00,Male,33,United states,Bachelors,Data and technology,Data engineer,Yes,Sql,225k+,3.0,3.0,4.0,4.0,3.0,5.0,Normal,Compensation,0:01:37
+2022-06-12 00:52:00,Female,42,United states,Bachelors,Food and beverage,Data analyst,No,Python,106k-125k,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Compensation,0:01:37
+2022-06-12 00:58:00,Female,36,United states,Bachelors,Healthcare,Data analyst,Yes,Python,41k-65k,1.0,10.0,10.0,8.0,10.0,3.0,Normal,Compensation,0:01:54
+2022-06-12 01:08:00,Male,27,United states,Bachelors,Research (non-clincial),Data analyst,Yes,Python,41k-65k,2.0,3.0,7.0,6.0,5.0,6.0,Normal,Compensation,0:01:43
+2022-06-12 02:43:00,Female,21,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Learning and growth,0:01:35
+2022-06-12 02:52:00,Female,34,Israel,Masters,Healthcare,Data analyst,Yes,Python,41k-65k,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Remote work,0:01:31
+2022-06-12 03:03:00,Male,27,Netherlands,Bachelors,Education,Unemployed,No,Python,0-40k,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Compensation,0:01:20
+2022-06-12 03:45:00,Male,27,France,Masters,Data and technology,Business intelligence specialist,Yes,Python,0-40k,7.0,8.0,8.0,8.0,8.0,7.0,Normal,Workplace culture,0:01:58
+2022-06-12 03:59:00,Male,30,Kenya,Associates,Education,Unemployed,No,R,0-40k,1.0,1.0,2.0,1.0,0.0,3.0,Normal,Work-life balance,0:03:34
+2022-06-12 04:00:00,Female,33,United states,Bachelors,Government,Data analyst,Yes,Sql,66k-85k,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Compensation,0:01:29
+2022-06-12 04:17:00,Male,47,India,Masters,Finance,Data analyst,Yes,Python,86k-105k,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Workplace culture,0:01:57
+2022-06-12 04:31:00,Male,27,United states,Masters,Retail,Data analyst,Yes,Sql,66k-85k,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Compensation,0:01:34
+2022-06-12 04:52:00,Male,26,India,Bachelors,Healthcare,Data analyst,No,Python,0-40k,6.0,7.0,8.0,7.0,6.0,7.0,Normal,Compensation,0:03:19
+2022-06-12 06:23:00,Female,35,India,Masters,Finance,Data analyst,No,Python,0-40k,2.0,3.0,2.0,5.0,5.0,6.0,Normal,Remote work,0:01:41
+2022-06-12 06:52:00,Male,31,United states,Masters,Education,Data analyst,Yes,Python,86k-105k,0.0,1.0,1.0,0.0,0.0,0.0,Normal,Workplace culture,0:01:11
+2022-06-12 07:16:00,Male,25,Zambia,Bachelors,Education,Data analyst,Yes,Python,0-40k,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Remote work,0:03:44
+2022-06-12 07:18:00,Male,27,United states,Bachelors,Government,Data engineer,Yes,Python,66k-85k,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Remote work,0:02:11
+2022-06-12 07:51:00,Male,32,Netherlands,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,5.0,8.0,3.0,2.0,4.0,8.0,Normal,Workplace culture,0:01:57
+2022-06-12 08:25:00,Male,47,Portugal,Bachelors,Government,Unemployed,Yes,Python,0-40k,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Work-life balance,0:02:42
+2022-06-12 09:14:00,Female,30,United states,Masters,Finance,Business analyst,No,Python,66k-85k,0.0,10.0,10.0,5.0,0.0,0.0,Normal,Work-life balance,0:01:31
+2022-06-12 09:30:00,Female,35,United states,Masters,Aerospace and defense,Data analyst,Yes,Python,106k-125k,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Compensation,0:01:52
+2022-06-12 09:36:00,Male,25,United states,High School,Finance,Data analyst,Yes,Python,41k-65k,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Remote work,0:02:16
+2022-06-12 09:44:00,Male,27,United states,Bachelors,Food and beverage,Data steward,No,Python,66k-85k,3.0,6.0,6.0,6.0,6.0,6.0,Normal,Compensation,0:03:02
+2022-06-12 09:44:00,Female,27,United states,Masters,Healthcare,Data analyst,Yes,R,41k-65k,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Remote work,0:01:20
+2022-06-12 10:07:00,Female,23,India,Masters,Data and technology,Unemployed,No,Python,0-40k,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Compensation,0:01:52
+2022-06-12 10:30:00,Male,18,United states,Bachelors,Manufacturing,Data scientist,No,Python,41k-65k,9.0,10.0,10.0,10.0,10.0,10.0,Normal,Workplace culture,0:02:10
+2022-06-12 11:43:00,Female,28,Costa rica,Masters,Healthcare,Data analyst,Yes,Python,0-40k,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Remote work,0:01:42
+2022-06-12 11:44:00,Male,28,United states,Bachelors,Healthcare,Data analyst,Yes,Python,125k-150k,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Remote work,0:01:20
+2022-06-12 12:12:00,Female,26,United states,Bachelors,Unemployed,Unemployed,No,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Work-life balance,0:01:35
+2022-06-12 12:36:00,Male,27,Ghana,Bachelors,Education,Unemployed,No,Python,0-40k,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Compensation,0:01:57
+2022-06-12 12:43:00,Female,22,India,Masters,Data and technology,Data analyst,No,Python,41k-65k,9.0,7.0,9.0,10.0,10.0,10.0,Normal,Work-life balance,0:02:48
+2022-06-12 12:47:00,Male,27,United states,High School,Data and technology,Data analyst,Yes,R,0-40k,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Compensation,0:01:56
+2022-06-12 13:13:00,Male,28,India,Bachelors,Food and beverage,Data engineer,Yes,Python,0-40k,5.0,7.0,6.0,8.0,7.0,7.0,Normal,Work-life balance,0:01:43
+2022-06-12 13:37:00,Male,25,Nigeria,High School,Data and technology,Data analyst,Yes,Python,0-40k,3.0,2.0,4.0,3.0,3.0,3.0,Normal,Compensation,0:01:46
+2022-06-12 14:03:00,Male,32,United kingdom,Bachelors,Healthcare,Data analyst,No,Python,0-40k,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Compensation,0:01:52
+2022-06-12 14:33:00,Male,33,Uruguay,Bachelors,Finance,Unemployed,Yes,Sql,0-40k,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Remote work,0:10:34
+2022-06-12 14:43:00,Male,23,Canada,Masters,Government,Data analyst,No,Python,41k-65k,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Remote work,0:02:53
+2022-06-12 15:09:00,Female,40,Nigeria,Bachelors,Finance,Unemployed,Yes,R,0-40k,4.0,5.0,4.0,4.0,5.0,6.0,Normal,Remote work,0:01:49
+2022-06-12 15:45:00,Female,28,United kingdom,Bachelors,Other,Data analyst,Yes,Python,41k-65k,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Compensation,0:02:39
+2022-06-12 16:23:00,Male,26,Nigeria,High School,Government,Data analyst,No,R,0-40k,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Remote work,0:03:50
+2022-06-12 16:28:00,Female,24,India,Bachelors,Data and technology,Technical consultant,Yes,Python,0-40k,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Compensation,0:03:59
+2022-06-12 17:01:00,Female,40,United states,Associates,Finance,Software engineer,Yes,Python,86k-105k,7.0,5.0,5.0,8.0,8.0,8.0,Normal,Remote work,0:02:04
+2022-06-12 17:09:00,Male,26,United states,Bachelors,Consulting,Data analyst,Yes,Python,66k-85k,8.0,10.0,10.0,10.0,7.0,9.0,Normal,Compensation,0:01:46
+2022-06-12 17:42:00,Female,44,United kingdom,Bachelors,Consulting,Data scientist,Yes,Python,41k-65k,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Workplace culture,0:02:29
+2022-06-12 18:14:00,Male,36,United states,Masters,Finance,Systems configuration,Yes,Python,66k-85k,7.0,9.0,8.0,8.0,6.0,6.0,Normal,Compensation,0:01:58
+2022-06-12 19:30:00,Male,30,Costa rica,Bachelors,Other,Business analyst,Yes,Python,0-40k,1.0,5.0,10.0,10.0,8.0,10.0,Normal,Compensation,0:01:37
+2022-06-12 21:13:00,Male,48,Indonesia,Masters,Manufacturing,Sales & marketing,Yes,Python,0-40k,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Work-life balance,0:04:36
+2022-06-12 22:29:00,Female,30,Canada,Masters,Manufacturing,Data analyst,Yes,Php,41k-65k,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Compensation,0:03:16
+2022-06-12 23:16:00,Male,28,India,Bachelors,Ecommerce,Rf engineer,No,Python,0-40k,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Compensation,0:04:53
+2022-06-12 23:35:00,Male,25,India,Bachelors,Data and technology,Support engineer,No,Python,0-40k,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Compensation,0:01:58
+2022-06-13 00:26:00,Male,24,United states,Masters,Data and technology,Data analyst,No,Sql,106k-125k,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Compensation,0:01:30
+2022-06-13 00:58:00,Male,31,United states,Bachelors,Culture and social work,Data analyst,Yes,Python,41k-65k,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Compensation,0:02:51
+2022-06-13 01:50:00,Male,23,United kingdom,Bachelors,Government,Data engineer,No,Python,0-40k,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Compensation,0:01:47
+2022-06-13 01:59:00,Female,48,United kingdom,Masters,Government,Data analyst,No,Dax,41k-65k,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Workplace culture,0:03:06
+2022-06-13 02:40:00,Male,28,United states,Bachelors,Healthcare,Data analyst,Yes,Python,66k-85k,6.0,9.0,8.0,8.0,8.0,7.0,Normal,Compensation,0:01:00
+2022-06-13 03:08:00,Male,32,United kingdom,Masters,Retail,Data analyst,Yes,Python,41k-65k,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Compensation,0:02:04
+2022-06-13 03:40:00,Male,30,Hong kong,Bachelors,Finance,Data scientist,Yes,Python,41k-65k,5.0,7.0,7.0,4.0,5.0,7.0,Normal,Compensation,0:04:45
+2022-06-13 05:25:00,Male,32,Tunisia,Masters,Finance,Data analyst,Yes,Python,0-40k,5.0,5.0,7.0,7.0,7.0,8.0,Normal,Work-life balance,0:03:29
+2022-06-13 05:33:00,Female,30,Sri lanka,Masters,Data and technology,Data analyst,Yes,Python,0-40k,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Workplace culture,0:01:50
+2022-06-13 06:03:00,Female,35,Spain,Masters,Manufacturing,Data analyst,Yes,Python,0-40k,4.0,2.0,5.0,2.0,4.0,4.0,Normal,Work-life balance,0:02:49
+2022-06-13 07:02:00,Female,38,United kingdom,Masters,Data and technology,Unemployed,Yes,R,0-40k,,,,,,10.0,Easy,Remote work,0:03:13
+2022-06-13 09:23:00,Female,30,United states,Masters,Retail,Account manager,Yes,Python,66k-85k,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Workplace culture,0:01:09
+2022-06-13 09:24:00,Male,48,United states,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,3.0,5.0,4.0,4.0,4.0,Normal,Compensation,0:01:26
+2022-06-13 09:32:00,Male,32,Canada,Masters,Finance,Data analyst,Yes,Sas,66k-85k,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Remote work,0:01:26
+2022-06-13 10:30:00,Male,27,India,Bachelors,Ecommerce,Incident manager,Yes,Python,41k-65k,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Work-life balance,0:01:12
+2022-06-13 10:48:00,Male,27,United kingdom,Masters,Data and technology,Product owner,No,Python,41k-65k,7.0,9.0,5.0,6.0,6.0,7.0,Easy,Workplace culture,0:01:34
+2022-06-13 11:30:00,Male,24,kenya,Bachelors,Finance,Unemployed,No,Python,0-40k,8.0,7.0,6.0,7.0,8.0,10.0,Normal,Remote work,0:02:45
+2022-06-13 11:40:00,Male,42,United states,PhD,Finance,Data scientist,Yes,R,150k-225k,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Compensation,0:00:43
+2022-06-13 11:59:00,Male,24,United states,Bachelors,Data and technology,Business analyst,No,Python,41k-65k,8.0,6.0,6.0,8.0,7.0,8.0,Normal,Compensation,0:02:58
+2022-06-13 12:00:00,Male,23,India,Bachelors,Data and technology,Business analyst,Yes,Python,0-40k,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Compensation,0:01:08
+2022-06-13 12:25:00,Male,26,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,7.0,9.0,8.0,8.0,4.0,2.0,Normal,Compensation,0:01:21
+2022-06-13 12:57:00,Male,32,Germany,Bachelors,Home and living,Data analyst,No,Sql,41k-65k,5.0,6.0,6.0,2.0,2.0,3.0,Normal,Compensation,0:02:01
+2022-06-13 13:24:00,Male,35,Argentina,Bachelors,Ecommerce,Presales engineer,No,Python,0-40k,4.0,3.0,2.0,0.0,0.0,0.0,Normal,Work-life balance,0:02:52
+2022-06-13 13:27:00,Male,41,United states,High School,Healthcare,Data analyst,Yes,Python,106k-125k,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Work-life balance,0:01:18
+2022-06-13 13:52:00,Male,25,United states,Masters,Education,Data analyst,No,Python,41k-65k,4.0,9.0,8.0,8.0,6.0,7.0,Normal,Compensation,0:00:59
+2022-06-13 13:56:00,Female,28,United states,Masters,Manufacturing,Data analyst,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation,0:01:04
+2022-06-13 14:06:00,Male,29,United states,Bachelors,Agriculture,Data analyst,Yes,Python,41k-65k,3.0,6.0,5.0,5.0,5.0,6.0,Normal,Compensation,0:00:50
+2022-06-13 14:51:00,Male,19,United states,High School,Ecommerce,Unemployed,No,Python,0-40k,8.0,10.0,6.0,7.0,8.0,8.0,Normal,Compensation,0:01:30
+2022-06-13 14:59:00,Male,27,India,Bachelors,Finance,Data analyst,Yes,Python,41k-65k,5.0,6.0,9.0,6.0,7.0,10.0,Normal,Compensation,0:01:25
+2022-06-13 15:25:00,Male,25,Other,Bachelors,Finance,Unemployed,Yes,Python,0-40k,8.0,9.0,9.0,7.0,8.0,8.0,Normal,Compensation,0:01:33
+2022-06-13 16:05:00,Female,26,Canada,Masters,Culture and social work,Data analyst,Yes,Python,41k-65k,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Compensation,0:01:46
+2022-06-13 16:22:00,Male,25,Spain,Bachelors,Healthcare,Data analyst,Yes,Python,0-40k,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Work-life balance,0:02:42
+2022-06-13 17:48:00,Male,25,Portugal,Bachelors,Manufacturing,Data analyst,Yes,Python,0-40k,6.0,6.0,9.0,9.0,10.0,10.0,Normal,Remote work,0:00:50
+2022-06-13 17:56:00,Male,26,Liberia,Bachelors,Healthcare,Data analyst,Yes,R,0-40k,2.0,3.0,4.0,3.0,3.0,5.0,Normal,Work-life balance,0:01:57
+2022-06-13 17:56:00,Male,35,United states,Bachelors,Education,Data analyst,Yes,Python,125k-150k,8.0,8.0,7.0,6.0,7.0,9.0,Normal,Workplace culture,0:01:07
+2022-06-13 18:41:00,Male,29,United states,Masters,Retail,Data analyst,Yes,Python,86k-105k,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Remote work,0:01:23
+2022-06-13 18:46:00,Female,41,United states,Associates,Data and technology,Data analyst,Yes,Python,86k-105k,7.0,6.0,5.0,4.0,3.0,6.0,Normal,Compensation,0:01:45
+2022-06-13 19:54:00,Female,22,United states,Bachelors,Education,Unemployed,No,Python,0-40k,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Remote work,0:01:15
+2022-06-13 21:15:00,Male,35,United states,Bachelors,Healthcare,Data analyst,Yes,,66k-85k,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Compensation,0:02:30
+2022-06-13 21:22:00,Male,30,Singapore,Bachelors,Finance,Data analyst,Yes,Python,66k-85k,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Compensation,0:02:04
+2022-06-13 22:08:00,Male,37,Canada,Bachelors,Government,Data engineer,No,Python,150k-225k,4.0,6.0,3.0,2.0,3.0,3.0,Normal,Workplace culture,0:01:13
+2022-06-13 22:21:00,Female,28,United states,Masters,Transportation,Data analyst,Yes,Python,66k-85k,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Compensation,0:03:15
+2022-06-13 23:05:00,Male,23,United states,High School,Government,Data analyst,No,Python,86k-105k,7.0,5.0,6.0,6.0,4.0,6.0,Normal,Workplace culture,0:00:58
+2022-06-14 01:03:00,Male,26,United states,High School,Finance,Unemployed,No,Python,0-40k,3.0,4.0,8.0,5.0,5.0,3.0,Normal,Compensation,0:01:54
+2022-06-14 04:31:00,Male,25,Australia,Bachelors,Logistics,Data analyst,No,Python,66k-85k,2.0,4.0,4.0,3.0,4.0,4.0,Normal,Work-life balance,0:01:22
+2022-06-14 05:06:00,Male,23,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,0.0,1.0,2.0,1.0,1.0,1.0,Normal,Remote work,0:01:27
+2022-06-14 05:42:00,Male,53,Nigeria,Bachelors,Unemployed,Unemployed,Yes,,0-40k,0.0,1.0,0.0,0.0,0.0,0.0,Normal,Workplace culture,0:02:53
+2022-06-14 05:47:00,Female,33,Romania,Bachelors,Data and technology,Data engineer,Yes,Python,0-40k,4.0,6.0,6.0,3.0,7.0,9.0,Normal,Compensation,0:01:37
+2022-06-14 06:34:00,Male,39,Other,High School,Finance,Unemployed,Yes,R,0-40k,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Compensation,0:04:29
+2022-06-14 06:43:00,Female,22,United kingdom,Bachelors,Healthcare,Data analyst,Yes,Dax,0-40k,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Compensation,0:01:05
+2022-06-14 06:53:00,Male,24,Germany,Bachelors,Finance,Data analyst,No,Python,41k-65k,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Compensation,0:01:34
+2022-06-14 09:35:00,Male,31,Canada,High School,Power and energy,Data architect,No,Python,86k-105k,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Work-life balance,0:01:36
+2022-06-14 10:41:00,Male,25,Asia,Bachelors,Retail,Data analyst,Yes,Python,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation,0:00:53
+2022-06-14 12:27:00,Male,25,India,Bachelors,Data and technology,Unemployed,No,R,0-40k,4.0,7.0,7.0,6.0,6.0,6.0,Normal,Compensation,0:02:07
+2022-06-14 13:04:00,Male,23,India,Bachelors,Data and technology,Data analyst,No,Python,0-40k,3.0,4.0,4.0,4.0,2.0,0.0,Normal,Work-life balance,0:02:07
+2022-06-14 14:02:00,Male,23,India,Bachelors,Advertising,Ads operations,Yes,Sql,41k-65k,6.0,7.0,7.0,7.0,7.0,6.0,Normal,Remote work,0:01:56
+2022-06-14 16:49:00,Male,40,United states,High School,Healthcare,Data analyst,No,Python,86k-105k,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Compensation,0:01:35
+2022-06-14 17:26:00,Male,29,United states,Bachelors,Home and living,Data analyst,No,C/c++,41k-65k,5.0,6.0,6.0,2.0,0.0,4.0,Normal,Compensation,0:02:02
+2022-06-14 17:33:00,Male,28,India,Bachelors,Data and technology,Data analyst,Yes,Python,0-40k,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Compensation,0:03:16
+2022-06-14 17:49:00,Female,28,United kingdom,Masters,Healthcare,Data analyst,Yes,R,0-40k,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Compensation,0:01:44
+2022-06-14 23:30:00,Female,26,India,Masters,Ecommerce,Unemployed,Yes,Python,0-40k,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Work-life balance,0:01:02
+2022-06-15 00:30:00,Male,30,Netherlands,Masters,Manufacturing,Data engineer,No,Python,41k-65k,6.0,8.0,8.0,5.0,5.0,5.0,Normal,Compensation,0:02:43
+2022-06-15 00:33:00,Male,27,Australia,Bachelors,Education,Data analyst,Yes,Sql,66k-85k,5.0,9.0,7.0,9.0,8.0,9.0,Normal,Compensation,0:01:26
+2022-06-15 00:38:00,Male,28,Nigeria,Bachelors,Retail,Data analyst,Yes,,0-40k,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Remote work,0:01:24
+2022-06-15 04:07:00,Female,38,Nigeria,Masters,Education,Data analyst,No,Python,66k-85k,3.0,3.0,5.0,3.0,3.0,4.0,Normal,Work-life balance,0:02:08
+2022-06-15 06:59:00,Male,22,Mexico,Bachelors,Finance,Data analyst,No,Python,0-40k,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Workplace culture,0:01:56
+2022-06-15 07:54:00,Male,34,United states,Bachelors,Power and energy,Data analyst,Yes,Python,86k-105k,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Compensation,0:01:32
+2022-06-15 09:43:00,Male,26,Indonesia,Bachelors,Data and technology,Data analyst,No,Python,0-40k,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Compensation,0:02:07
+2022-06-15 10:43:00,Female,26,Canada,Bachelors,Data and technology,Data analyst,Yes,Python,66k-85k,5.0,9.0,7.0,7.0,8.0,9.0,Normal,Compensation,0:01:06
+2022-06-15 11:20:00,Male,25,Greece,Bachelors,Education,Data engineer,No,Python,66k-85k,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Remote work,0:01:23
+2022-06-15 13:08:00,Male,34,United states,Bachelors,Data and technology,Data scientist,Yes,Python,125k-150k,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Collaboration,0:03:23
+2022-06-15 13:30:00,Female,32,Poland,Bachelors,Finance,Business intelligence specialist,Yes,Dax,41k-65k,7.0,10.0,10.0,10.0,4.0,5.0,Normal,Work-life balance,0:03:51
+2022-06-15 14:16:00,Male,24,United states,Associates,Manufacturing,Unemployed,No,R,0-40k,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Compensation,0:01:15
+2022-06-15 14:48:00,Male,26,Argentina,Bachelors,Data and technology,Data engineer,Yes,Python,0-40k,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Compensation,0:06:20
+2022-06-15 15:13:00,Female,32,Sweden,Masters,Ecommerce,Data analyst,Yes,Sql,41k-65k,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Compensation,0:02:00
+2022-06-15 15:34:00,Male,40,Portugal,Masters,Data and technology,Data scientist,No,R,41k-65k,5.0,1.0,7.0,1.0,1.0,2.0,Normal,Work-life balance,0:02:24
+2022-06-15 15:37:00,Male,27,United states,Bachelors,Advertising,Data analyst,No,Python,0-40k,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Compensation,0:01:49
+2022-06-15 15:39:00,Male,28,United states,Masters,Data and technology,Data analyst,Yes,R,66k-85k,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Compensation,0:01:03
+2022-06-15 16:17:00,Male,30,Nigeria,Bachelors,Food and beverage,Data analyst,Yes,Python,0-40k,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Compensation,0:02:13
+2022-06-15 16:56:00,Male,37,United states,Bachelors,Education,Data analyst,Yes,Python,0-40k,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Remote work,0:01:10
+2022-06-15 18:04:00,Male,32,Australia,Bachelors,Data and technology,Software support,No,Javascript,41k-65k,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Workplace culture,0:02:35
+2022-06-15 18:24:00,Male,24,Saudi arabia,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,9.0,7.0,10.0,10.0,5.0,8.0,Normal,Compensation,0:02:20
+2022-06-15 22:29:00,Male,39,Argentina,Associates,Data and technology,Data analyst,Yes,Python,0-40k,6.0,7.0,7.0,7.0,5.0,6.0,Normal,Compensation,0:02:50
+2022-06-15 22:29:00,Male,34,Australia,Bachelors,Finance,Data analyst,Yes,Python,125k-150k,6.0,8.0,7.0,4.0,4.0,2.0,Easy,,0:06:15
+2022-06-15 22:43:00,Male,27,United states,Bachelors,Aerospace and defense,Data analyst,No,Python,41k-65k,5.0,6.0,10.0,7.0,3.0,3.0,Normal,Remote work,0:01:38
+2022-06-15 23:29:00,Male,54,United states,High School,Healthcare,Data analyst,Yes,Sql,66k-85k,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Compensation,0:01:17
+2022-06-15 23:50:00,Female,20,India,Bachelors,Data and technology,Unemployed,No,Python,0-40k,0.0,,,,,,Difficult,Remote work,0:01:50
+2022-06-16 02:28:00,Male,25,India,Masters,Finance,Unemployed,Yes,Sql,0-40k,3.0,3.0,3.0,3.0,3.0,3.0,Normal,Work-life balance,0:01:22
+2022-06-16 04:50:00,Male,33,India,Bachelors,Data and technology,Unemployed,No,Python,0-40k,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Work-life balance,0:01:42
+2022-06-16 05:30:00,Male,30,United kingdom,Masters,Data and technology,Data analyst,Yes,Python,41k-65k,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Remote work,0:01:17
+2022-06-16 06:00:00,Male,31,Niger,High School,Data and technology,Unemployed,Yes,Python,0-40k,0.0,4.0,2.0,0.0,1.0,3.0,Normal,Compensation,0:12:16
+2022-06-16 06:54:00,Male,22,France,Masters,Automobile,Unemployed,Yes,Python,0-40k,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Remote work,0:02:11
+2022-06-16 08:06:00,Female,38,United states,Bachelors,Data and technology,Data analyst,Yes,R,66k-85k,8.0,10.0,10.0,10.0,8.0,9.0,Normal,Remote work,0:01:29
+2022-06-16 10:29:00,Male,22,Malaysia,Bachelors,Logistics,Data analyst,No,Python,0-40k,6.0,9.0,7.0,7.0,5.0,8.0,Normal,Work-life balance,0:02:41
+2022-06-16 13:38:00,Male,33,India,Bachelors,Government,Data scientist,Yes,Python,0-40k,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Compensation,0:01:20
+2022-06-16 15:25:00,Male,27,Canada,Bachelors,Data and technology,Data analyst,Yes,Python,41k-65k,3.0,6.0,6.0,6.0,5.0,5.0,Normal,Compensation,0:01:11
+2022-06-16 16:00:00,Male,19,Algeria,Bachelors,Data and technology,Data analyst,No,R,0-40k,0.0,6.0,3.0,0.0,0.0,10.0,Normal,Remote work,0:02:14
+2022-06-16 22:52:00,Male,24,India,Bachelors,Ecommerce,Investigation specialist,No,Python,0-40k,1.0,6.0,2.0,5.0,1.0,0.0,Normal,Compensation,0:01:24
+2022-06-16 22:59:00,Female,58,United states,Masters,Finance,Director,No,Unspecified,150k-225k,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Workplace culture,0:03:50
+2022-06-17 14:03:00,Male,22,Nigeria,Bachelors,Data and technology,Data analyst,No,Python,0-40k,2.0,2.0,5.0,6.0,6.0,3.0,Normal,Work-life balance,0:01:38
+2022-06-17 16:37:00,Male,26,Ireland,Masters,Data and technology,Data analyst,No,Python,86k-105k,4.0,4.0,4.0,4.0,3.0,4.0,Normal,Compensation,0:01:26
+2022-06-17 17:22:00,Female,31,United kingdom,Bachelors,Data and technology,Data manager,No,Unspecified,41k-65k,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Workplace culture,0:02:06
+2022-06-18 00:48:00,Male,23,United states,High School,Agriculture,Data analyst,No,Python,41k-65k,2.0,2.0,4.0,5.0,1.0,1.0,Normal,Compensation,0:01:32
+2022-06-18 10:33:00,Female,31,United states,Masters,Healthcare,Data analyst,No,Python,86k-105k,7.0,10.0,10.0,10.0,7.0,8.0,Normal,Remote work,0:01:20
+2022-06-18 11:42:00,Female,24,United states,Bachelors,Manufacturing,Unemployed,No,Unspecified,66k-85k,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Compensation,0:01:47
+2022-06-18 20:04:00,Male,29,Mexico,Bachelors,Finance,Data analyst,Yes,Python,41k-65k,8.0,10.0,10.0,10.0,10.0,10.0,Normal,Compensation,0:02:05
+2022-06-19 04:40:00,Male,26,Indonesia,Bachelors,Education,Unemployed,Yes,Python,0-40k,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Work-life balance,0:01:20
+2022-06-19 07:25:00,Male,20,India,High School,Other,Unemployed,Yes,Python,0-40k,3.0,9.0,9.0,9.0,9.0,9.0,Normal,Compensation,0:01:52
+2022-06-19 08:01:00,Male,23,India,Bachelors,Education,Data analyst,Yes,Python,0-40k,0.0,2.0,3.0,2.0,4.0,2.0,Normal,Compensation,0:01:24
+2022-06-19 10:53:00,Male,33,United states,Masters,Data and technology,Data analyst,No,Python,106k-125k,8.0,8.0,9.0,8.0,7.0,7.0,Normal,Work-life balance,0:01:47
+2022-06-19 12:04:00,Male,26,Nigeria,Bachelors,Data and technology,Unemployed,Yes,Python,0-40k,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Remote work,0:01:40
+2022-06-19 12:50:00,Male,27,India,Bachelors,Consulting,Data analyst,Yes,R,0-40k,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Compensation,0:03:57
+2022-06-19 13:57:00,Male,22,Uzbekistan,Bachelors,Agriculture,Unemployed,No,Sql,0-40k,0.0,8.0,8.0,8.0,8.0,8.0,Normal,Compensation,0:02:21
+2022-06-19 18:10:00,Male,23,Spain,Masters,Data and technology,Data analyst,Yes,Python,0-40k,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Compensation,0:02:06
+2022-06-21 01:09:00,Male,28,Mexico,Bachelors,Food and beverage,Data analyst,Yes,Python,0-40k,3.0,6.0,7.0,5.0,4.0,4.0,Normal,Compensation,0:01:54
+2022-06-21 02:51:00,Female,39,Portugal,Masters,Finance,Data analyst,No,Sql,41k-65k,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Work-life balance,0:02:28
+2022-06-21 15:34:00,Male,37,United states,Masters,Transportation,Business intelligence specialist,No,Python,106k-125k,3.0,2.0,5.0,3.0,3.0,4.0,Normal,Compensation,0:03:25
+2022-06-21 21:27:00,Female,29,United states,Masters,Education,Business analyst,Yes,Sql,41k-65k,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Compensation,0:01:33
+2022-06-22 06:10:00,Male,42,United states,Masters,Finance,Data analyst,Yes,Python,106k-125k,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Work-life balance,0:01:24
+2022-06-22 13:33:00,Female,25,Canada,Bachelors,Data and technology,Unemployed,No,R,0-40k,0.0,0.0,0.0,0.0,0.0,0.0,Normal,Workplace culture,0:01:11
+2022-06-23 06:28:00,Male,66,Morocco,High School,Ecommerce,Business analyst,Yes,Python,0-40k,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Compensation,0:01:20
+2022-06-23 22:45:00,Male,26,United states,Bachelors,Retail,Data analyst,Yes,R,125k-150k,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Compensation,0:00:50
+2022-06-24 07:45:00,Male,21,United states,Bachelors,Manufacturing,Data scientist,No,R,0-40k,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Compensation,0:03:12
+2022-06-25 09:41:00,Male,26,Oman,Bachelors,Data and technology,Unemployed,Yes,Python,0-40k,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Compensation,0:04:43
+2022-06-25 19:06:00,Male,24,Costa rica,Bachelors,Data and technology,Data engineer,No,Python,0-40k,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Learning and growth,0:02:17
+2022-06-26 12:58:00,Male,22,United states,Bachelors,Automobile,Data analyst,No,Python,41k-65k,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Remote work,0:01:19
